@@ -58,4 +58,4 @@ module GW
   end
 end
 
-GW::TemplateReader.new(File.read(ARGV.first)).display
+GW::TemplateReader.new($stdin.read).display
