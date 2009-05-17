@@ -1,0 +1,2970 @@
+0000 (blank)
+0001 Healing Signet
+0002 Resurrection Signet
+0003 Signet of Capture
+0004 BAMPH ! (Locked Skill)
+0005 Power Block
+0006 Mantra of Earth
+0007 Mantra of Flame
+0008 Mantra of Frost
+0009 Mantra of Lightning
+0010 Hex Breaker
+0011 Distortion
+0012 Mantra of Celerity (Locked Skill)
+0013 Mantra of Recovery
+0014 Mantra of Persistence
+0015 Mantra of Inscriptions
+0016 Mantra of Concentration
+0017 Mantra of Resolve
+0018 Mantra of Signets
+0019 Fragility
+0020 Confusion (Locked Skill)
+0021 Inspired Enchantment
+0022 Inspired Hex
+0023 Power Spike
+0024 Power Leak
+0025 Power Drain
+0026 Empathy
+0027 Shatter Delusions
+0028 Backfire
+0029 Blackout
+0030 Diversion
+0031 Conjure Phantasm
+0032 Illusion of Weakness
+0033 Illusionary Weaponry
+0034 Sympathetic Visage
+0035 Ignorance
+0036 Arcane Conundrum
+0037 Illusion of Haste
+0038 Channeling
+0039 Energy Surge
+0040 Ether Feast
+0041 Ether Lord
+0042 Energy Burn
+0043 Clumsiness
+0044 Phantom Pain
+0045 Ethereal Burden
+0046 Guilt
+0047 Ineptitude
+0048 Spirit of Failure
+0049 Mind Wrack
+0050 Wastrel's Worry
+0051 Shame
+0052 Panic
+0053 Migraine
+0054 Crippling Anguish
+0055 Fevered Dreams
+0056 Soothing Images
+0057 Cry of Frustration
+0058 Signet of Midnight
+0059 Signet of Weariness
+0060 (hidden)
+0061 Leech Signet
+0062 Signet of Humility
+0063 Keystone Signet
+0064 Mimic (Locked Skill)
+0065 Arcane Mimicry
+0066 Spirit Shackles
+0067 Shatter Hex
+0068 Drain Enchantment
+0069 Shatter Enchantment
+0070 Disappear (Locked Skill)
+0071 Unnatural Signet (Locked Skill)
+0072 Elemental Resistance
+0073 Physical Resistance
+0074 Echo
+0075 Arcane Echo
+0076 Imagined Burden
+0077 Chaos Storm
+0078 Epidemic
+0079 Energy Drain
+0080 Energy Tap
+0081 Arcane Thievery
+0082 Mantra of Recall
+0083 Animate Bone Horror
+0084 Animate Bone Fiend
+0085 Animate Bone Minions
+0086 Grenth's Balance
+0087 Verata's Gaze
+0088 Verata's Aura
+0089 Deathly Chill
+0090 Verata's Sacrifice
+0091 Well of Power
+0092 Well of Blood
+0093 Well of Suffering
+0094 Well of the Profane
+0095 Putrid Explosion
+0096 Soul Feast
+0097 Necrotic Traversal
+0098 Consume Corpse
+0099 Parasitic Bond
+0100 Soul Barbs
+0101 Barbs
+0102 Shadow Strike
+0103 Price of Failure
+0104 Death Nova
+0105 Deathly Swarm
+0106 Rotting Flesh
+0107 Virulence
+0108 Suffering
+0109 Life Siphon
+0110 Unholy Feast
+0111 Awaken the Blood
+0112 Desecrate Enchantments
+0113 Tainted Flesh
+0114 Aura of the Lich
+0115 Blood Renewal
+0116 Dark Aura
+0117 Enfeeble
+0118 Enfeebling Blood
+0119 Blood is Power
+0120 Blood of the Master
+0121 Spiteful Spirit
+0122 Malign Intervention
+0123 Insidious Parasite
+0124 Spinal Shivers
+0125 Wither
+0126 Life Transfer
+0127 Mark of Subversion
+0128 Soul Leech
+0129 Defile Flesh
+0130 Demonic Flesh
+0131 Barbed Signet
+0132 Plague Signet
+0133 Dark Pact
+0134 Order of Pain
+0135 Faintheartedness
+0136 Shadow of Fear
+0137 Rigor Mortis
+0138 Dark Bond
+0139 Infuse Condition
+0140 Malaise
+0141 Rend Enchantments
+0142 Lingering Curse
+0143 Strip Enchantment
+0144 Chilblains
+0145 Signet of Agony
+0146 Offering of Blood
+0147 Dark Fury
+0148 Order of the Vampire
+0149 Plague Sending
+0150 Mark of Pain
+0151 Feast of Corruption
+0152 Taste of Death
+0153 Vampiric Gaze
+0154 Plague Touch
+0155 Vile Touch
+0156 Vampiric Touch
+0157 Blood Ritual
+0158 Touch of Agony
+0159 Weaken Armor
+0160 Windborne Speed
+0161 Lightning Storm (Locked Skill)
+0162 Gale
+0163 Whirlwind
+0164 Elemental Attunement
+0165 Armor of Earth
+0166 Kinetic Armor
+0167 Eruption
+0168 Magnetic Aura
+0169 Earth Attunement
+0170 Earthquake
+0171 Stoning
+0172 Stone Daggers
+0173 Grasping Earth
+0174 Aftershock
+0175 Ward Against Elements
+0176 Ward Against Melee
+0177 Ward Against Foes
+0178 Ether Prodigy
+0179 Incendiary Bonds
+0180 Aura of Restoration
+0181 Ether Renewal
+0182 Conjure Flame
+0183 Inferno
+0184 Fire Attunement
+0185 Mind Burn
+0186 Fireball
+0187 Meteor
+0188 Flame Burst
+0189 Rodgort's Invocation
+0190 Mark of Rodgort
+0191 Immolate
+0192 Meteor Shower
+0193 Phoenix
+0194 Flare
+0195 Lava Font
+0196 Searing Heat
+0197 Fire Storm
+0198 Glyph of Elemental Power
+0199 Glyph of Energy
+0200 Glyph of Lesser Energy
+0201 Glyph of Concentration
+0202 Glyph of Sacrifice
+0203 Glyph of Renewal
+0204 Rust
+0205 Lightning Surge
+0206 Armor of Frost
+0207 Conjure Frost
+0208 Water Attunement
+0209 Mind Freeze
+0210 Ice Prison
+0211 Ice Spikes
+0212 Frozen Burst
+0213 Shard Storm
+0214 Ice Spear
+0215 Maelstrom
+0216 Iron Mist
+0217 Crystal Wave
+0218 Obsidian Flesh
+0219 Obsidian Flame
+0220 Blinding Flash
+0221 Conjure Lightning
+0222 Lightning Strike
+0223 Chain Lightning
+0224 Enervating Charge
+0225 Air Attunement
+0226 Mind Shock
+0227 Glimmering Mark
+0228 Thunderclap
+0229 Lightning Orb
+0230 Lightning Javelin
+0231 Shock
+0232 Lightning Touch
+0233 Swirling Aura
+0234 Deep Freeze
+0235 Blurred Vision
+0236 Mist Form
+0237 Water Trident
+0238 Armor of Mist
+0239 Ward Against Harm
+0240 Smite
+0241 Life Bond
+0242 Balthazar's Spirit
+0243 Strength of Honor
+0244 Life Attunement
+0245 Protective Spirit
+0246 Divine Intervention
+0247 Symbol of Wrath
+0248 Retribution
+0249 Holy Wrath
+0250 Essence Bond
+0251 Scourge Healing
+0252 Banish
+0253 Scourge Sacrifice
+0254 Vigorous Spirit
+0255 Watchful Spirit
+0256 Blessed Aura
+0257 Aegis
+0258 Guardian
+0259 Shield of Deflection
+0260 Aura of Faith
+0261 Shield of Regeneration
+0262 Shield of Judgment
+0263 Protective Bond
+0264 Pacifism
+0265 Amity
+0266 Peace and Harmony
+0267 Judge's Insight
+0268 Unyielding Aura
+0269 Mark of Protection
+0270 Life Barrier
+0271 Zealot's Fire
+0272 Balthazar's Aura
+0273 Spell Breaker
+0274 Healing Seed
+0275 Mend Condition
+0276 Restore Condition
+0277 Mend Ailment
+0278 Purge Conditions
+0279 Divine Healing
+0280 Heal Area
+0281 Orison of Healing
+0282 Word of Healing
+0283 Dwayna's Kiss
+0284 Divine Boon
+0285 Healing Hands
+0286 Heal Other
+0287 Heal Party
+0288 Healing Breeze
+0289 Vital Blessing
+0290 Mending
+0291 Live Vicariously
+0292 Infuse Health
+0293 Signet of Devotion
+0294 Signet of Judgment
+0295 Purge Signet
+0296 Bane Signet
+0297 Blessed Signet
+0298 Martyr
+0299 Shielding Hands
+0300 Contemplation of Purity
+0301 Remove Hex
+0302 Smite Hex
+0303 Convert Hexes
+0304 Light of Dwayna
+0305 Resurrect
+0306 Rebirth
+0307 Reversal of Fortune
+0308 Succor
+0309 Holy Veil
+0310 Divine Spirit
+0311 Draw Conditions
+0312 Holy Strike
+0313 Healing Touch
+0314 Restore Life
+0315 Vengeance
+0316 "To the Limit!"
+0317 Battle Rage
+0318 Defy Pain
+0319 Rush
+0320 Hamstring
+0321 Wild Blow
+0322 Power Attack
+0323 Desperation Blow
+0324 Thrill of Victory
+0325 Distracting Blow
+0326 Protector's Strike
+0327 Griffon's Sweep
+0328 Pure Strike
+0329 Skull Crack
+0330 Cyclone Axe
+0331 Hammer Bash
+0332 Bull's Strike
+0333 "I Will Avenge You!"
+0334 Axe Rake
+0335 Cleave
+0336 Executioner's Strike
+0337 Dismember
+0338 Eviscerate
+0339 Penetrating Blow
+0340 Disrupting Chop
+0341 Swift Chop
+0342 Axe Twist
+0343 "For Great Justice!"
+0344 Flurry
+0345 Defensive Stance
+0346 Frenzy
+0347 Endure Pain
+0348 "Watch Yourself!"
+0349 Sprint
+0350 Belly Smash
+0351 Mighty Blow
+0352 Crushing Blow
+0353 Crude Swing
+0354 Earth Shaker
+0355 Devastating Hammer
+0356 Irresistible Blow
+0357 Counter Blow
+0358 Backbreaker
+0359 Heavy Blow
+0360 Staggering Blow
+0361 Dolyak Signet
+0362 Warrior's Cunning
+0363 Shield Bash
+0364 "Charge!"
+0365 "Victory is Mine!"
+0366 "Fear Me!"
+0367 "Shields Up!"
+0368 "I Will Survive!"
+0369 "Don't Believe Their Lies!" (Locked Skill)
+0370 Berserker Stance
+0371 Balanced Stance
+0372 Gladiator's Defense
+0373 Deflect Arrows
+0374 Warrior's Endurance
+0375 Dwarven Battle Stance
+0376 Disciplined Stance
+0377 Wary Stance
+0378 Shield Stance
+0379 Bull's Charge
+0380 Bonetti's Defense
+0381 Hundred Blades
+0382 Sever Artery
+0383 Galrath Slash
+0384 Gash
+0385 Final Thrust
+0386 Seeking Blade
+0387 Riposte
+0388 Deadly Riposte
+0389 Flourish
+0390 Savage Slash
+0391 Hunter's Shot
+0392 Pin Down
+0393 Crippling Shot
+0394 Power Shot
+0395 Barrage
+0396 Dual Shot
+0397 Quick Shot
+0398 Penetrating Attack
+0399 Distracting Shot
+0400 Precision Shot
+0401 Splinter Shot
+0402 Determined Shot
+0403 Called Shot
+0404 Poison Arrow
+0405 Oath Shot
+0406 Debilitating Shot
+0407 Point Blank Shot
+0408 Concussion Shot
+0409 Punishing Shot
+0410 Call of Ferocity (Locked Skill)
+0411 Charm Animal
+0412 Call of Protection
+0413 Call of Elemental Protection (Locked Skill)
+0414 Call of Vitality (Locked Skill)
+0415 Call of Haste
+0416 Call of Healing (Locked Skill)
+0417 Call of Resilience (Locked Skill)
+0418 Call of Feeding (Locked Skill)
+0419 Call of the Hunter (Locked Skill)
+0420 Call of Brutality (Locked Skill)
+0421 Call of Disruption (Locked Skill)
+0422 Revive Animal
+0423 Symbiotic Bond
+0424 Throw Dirt
+0425 Dodge
+0426 Savage Shot
+0427 Antidote Signet
+0428 Incendiary Arrows
+0429 Melandru's Arrows
+0430 Marksman's Wager
+0431 Ignite Arrows
+0432 Read the Wind
+0433 Kindle Arrows
+0434 Choking Gas
+0435 Apply Poison
+0436 Comfort Animal
+0437 Bestial Pounce
+0438 Maiming Strike
+0439 Feral Lunge
+0440 Scavenger Strike
+0441 Melandru's Assault
+0442 Ferocious Strike
+0443 Predator's Pounce
+0444 Brutal Strike
+0445 Disrupting Lunge
+0446 Troll Unguent
+0447 Otyugh's Cry
+0448 Escape
+0449 Practiced Stance
+0450 Whirling Defense
+0451 Melandru's Resilience
+0452 Dryder's Defenses
+0453 Lightning Reflexes
+0454 Tiger's Fury
+0455 Storm Chaser
+0456 Serpent's Quickness
+0457 Dust Trap
+0458 Barbed Trap
+0459 Flame Trap
+0460 Healing Spring
+0461 Spike Trap
+0462 Winter
+0463 Winnowing
+0464 Edge of Extinction
+0465 Greater Conflagration
+0466 Conflagration
+0467 Fertile Season
+0468 Symbiosis
+0469 Primal Echoes
+0470 Predatory Season
+0471 Frozen Soil
+0472 Favorable Winds
+0473 High Winds (Locked Skill)
+0474 Energizing Wind
+0475 Quickening Zephyr
+0476 Nature's Renewal
+0477 Muddy Terrain
+0478 Bleeding (Invalid)
+0479 Blind (Invalid)
+0480 Burning (Invalid)
+0481 Crippled (Invalid)
+0482 Deep Wound (Invalid)
+0483 Disease (Invalid)
+0484 Poison (Invalid)
+0485 Dazed (Invalid)
+0486 Weakness (Invalid)
+0487 Cleansed (Invalid)
+0488 Eruption (Locked Skill)
+0489 Fire Storm (Locked Skill)
+0490 Vital Blessing (Locked Skill)
+0491 Fount of Maguuma (Invalid)
+0492 Healing Fountain (Invalid)
+0493 Icy Ground (Invalid)
+0494 Maelstrom (Locked Skill)
+0495 Mursaat Tower (Invalid)
+0496 Quick Sand (Invalid)
+0497 Curse of the Bloodstone (Invalid)
+0498 Chain Lightning (Locked Skill)
+0499 Obelisk Lightning (Locked Skill)
+0500 Tar (Invalid)
+0501 Siege Attack (Invalid)
+0502 Resurrect Party (Invalid)
+0503 Scepter of Orr's Aura (Invalid)
+0504 Scepter of Orr's Power (Invalid)
+0505 Burden Totem (Invalid)
+0506 Spinter Mine (Invalid)
+0507 Entanglement (Invalid)
+0508 Dwarven Powder Keg (Invalid)
+0509 Seed of Resurrection (Invalid)
+0510 Deafening Roar (Invalid)
+0511 Brutal Mauling (Invalid)
+0512 Crippling Attack (Invalid)
+0513 Charm Animal (Skill Locked)
+0514 Breaking Charm (Locked Skill)
+0515 Charr Buff (Locked Skill or invalid ? )
+0516 Claim Resource (Invalid)
+0517 Claim Resource (Invalid)
+0518 Claim Resource (Invalid)
+0519 Claim Resource (Invalid)
+0520 Claim Resource (Invalid)
+0521 Claim Resource (Invalid)
+0522 Claim Resource (Invalid)
+0523 Claim Resource (Invalid)
+0524 Dozen Shot (Locked Skill or invalid ? )
+0525 Nibble (Invalid)
+0526 Claim Resource (Invalid)
+0527 Claim Resource (Invalid)
+0528 Reflection (Locked Skill or invalid ? )
+0529 Spectral Agony (Locked Skill)
+0530 Giant Stomp (Invalid)
+0531 Agnar's Rage (Invalid)
+0532 Healing Breaze (Locked Skill)
+0533 Crystal Haze (Invalid)
+0534 Crystal Bonds (Invalid)
+0535 Jagged Crystal Skin (Invalid)
+0536 Crystal Hibernation (Invalid)
+0537 Stun Immunity (Locked Skill or invalid ? )
+0538 Invulnerability (Locked Skill or invalid ? )
+0539 Hunger of the Lich (Locked Skill or invalid ? )
+0540 Embrace the Pain (Locked Skill or invalid ? )
+0541 Life Vortex (Locked Skill or invalid ? )
+0542 Oracle Link (Locked Skill or invalid ? )
+0543 Guardian Pacify (Locked Skill or invalid ? )
+0544 Soul Vortex (Invalid)
+0545 Soul Vortex (Locked Skill)
+0546 Spectral Agony (Invalid)
+0547 Natural Resistance (Invalid)
+0548 Natural Resistance (Invalid)
+0549 Natural Resistance (Invalid)
+0550 Critical Hit Probability (Locked Skill or invalid ? )
+0551 Stun on Critical Hit (Locked Skill or invalid ? )
+0552 Blood Splattering (Locked Skill or invalid ? )
+0553 Inanimate Object (Locked Skill or invalid ? )
+0554 Undead Sensitivity to Light (Locked Skill or invalid ? )
+0555 Energy Boost (Locked Skill or invalid ? )
+0556 Health Drain (Locked Skill or invalid ? )
+0557 Immunity to Critical Hits (Locked Skill or invalid ? )
+0558 Titans get plus Health regen and set ennemies on fire each time he is hit (Locked Skill or invalid ? )
+0559 Undying (Locked Skill or invalid ? )
+0560 Resurrect (Locked Skill or invalid ? )
+0561 Seal Regen (Locked Skill or invalid ? )
+0562 Lightning Orb (Locked Skill or invalid ? )
+0563 Wurm Siege (Invalid)
+0564 Wurm Siege (Invalid)
+0565 Claim Resource (Invalid)
+0566 Shiver Touch (Locked Skill or invalid ? )
+0567 Spontaneous Combustion (Invalid)
+0568 Vanish (Locked Skill or invalid ? )
+0569 "Victory or Death!" (Invalid)
+0570 Mark of Insecurity
+0571 Disrupting Dagger
+0572 Deadly Paradox
+0573 Teleport Players (Locked Skill or invalid ? )
+0574 Quest Skill for Coastal Exam (Locked Skill or invalid ? )
+0575 Holy Blessing (Invalid)
+0576 Statue's Blessing (Invalid)
+0577 Siege Attack (Locked Skill or invalid ? )
+0578 Siege Attack (Invalid)
+0579 Domain of Skill Damage
+0580 Domain of Energy Draining
+0581 Domain of Elements
+0582 Domain of Health Draining
+0583 Domain of Slow
+0584 Divine Fire (Invalid)
+0585 Swamp Water (Invalid)
+0586 Janthir's Gaze (Locked Skill or invalid ? )
+0587 Fake Spell (Locked Skill or invalid ? )
+0588 Charm Animal (Invalid)
+0589 Stormcaller (Invalid)
+0590 Knock (Invalid)
+0591 Quest Skill (Locked Skill or invalid ? )
+0592 Rurik Must Live (Locked Skill or invalid ? )
+0593 Concealment (Locked Skill or invalid ? )
+0594 Lich's Phylactery (Locked Skill or invalid ? )
+0595 Restore Life (Locked Skill)
+0596 Chimera of Intensity (Invalid)
+0597 (TEMP)Double Adrenaline Chance (Locked Skill)
+0598 (TEMP)Bonus Triple Adrenaline on Kill (Locked Skill)
+0599 (TEMP)Bonus AI
+0600 (TEMP)Armor Penetration
+0601 (TEMP)Armor Penetration Chance
+0602 (TEMP)Bonus AI Vs Damage Type
+0603 (TEMP)Bonus AI Vs Elemental Damage
+0604 (TEMP)Bonus AI Vs Physical Damage
+0605 (TEMP)Bonus AI Vs Species
+0606 (TEMP)Bonus AI While Attacking
+0607 (TEMP)Bonus AI While Casting
+0608 (TEMP)Bonus AI While Enchanted
+0609 [[[[(TEMP)Bonus AI While Health < 50%]]]]
+0610 [[[[(TEMP)Bonus AI While Health > 50%]]]]
+0611 (TEMP)Bonus AI While Hexed
+0612 (TEMP)1 Attrib
+0613 (TEMP)1 Attrib
+0614 (TEMP)Bonus Lengthen Condition
+0615 (TEMP)Bonus Shorten Condition
+0616 Bonus Damage
+0617 Bonus Damage
+0618 Bonus Damage
+0619 Bonus Damage
+0620 Bonus Damage
+0621 Bonus Damage
+0622 (TEMP)Bonus Damage While Enchanted
+0623 Bonus Damage
+0624 Bonus Damage
+0625 Bonus Damage
+0626 Bonus Damage
+0627 (TEMP)Bonus Energy
+0628 (TEMP)Bonus Energy While Enchanted
+0629 [[[[(TEMP)Bonus Energy While < 50% Health]]]]
+0630 [[[[(TEMP)Bonus Energy While Health > 50%]]]]
+0631 (TEMP)Bonus Energy While Hexed
+0632 (TEMP)Bonus Fast Attack
+0633 (TEMP)Bonus Fast Attack Chance
+0634 (TEMP)Bonus Fast Cast Chance
+0635 (TEMP)Bonus Fast Cast Chance Attrib
+0636 (TEMP)Bonus Fast Spell Recharge Chance
+0637 (TEMP)Bonus Fast Spell Recharge Chance Attrib
+0638 (TEMP)Bonus Gain Energy On Block
+0639 (TEMP)Bonus Gain Energy On Hit
+0640 (TEMP)Bonus Gain Energy On Parry
+0641 (TEMP)Bonus Gain Energy Using Attack Skill
+0642 (TEMP)Bonus Gain Energy When Blocked
+0643 (TEMP)Bonus Gain Health On Hit
+0644 (TEMP)Bonus Gain Health On Parry
+0645 (TEMP)Bonus Health
+0646 (TEMP)Bonus Health While Enchanted
+0647 (TEMP)Bonus Health While Hexed
+0648 (TEMP)Bonus Health While In Stance
+0649 (TEMP)Bonus Instant Spell Recharge
+0650 (TEMP)Reduce Damage Chance
+0651 (TEMP)Reduce Damage While Enchanted
+0652 (TEMP)Reduce Damage While Hexed
+0653 (TEMP)Reduce Damage While In Stance
+0654 Energy Stealing
+0655 Energy Stealing
+0656 Life Stealing
+0657 Life Stealing
+0658 (TEMP)% Miss
+0659 (TEMP)Reduce Armor While Attacking
+0660 (TEMP)Reduce Armor While Casting
+0661 (TEMP)Reduce Critical Hit
+0662 (TEMP)Reduce Damage
+0663 (TEMP)Lower Max Energy
+0664 (TEMP)Lower Energy Regen
+0665 (TEMP)Lower Max Health
+0666 (TEMP)Lower Health Regen
+0667 (TEMP)Slow Attack
+0668 (TEMP)Slow Cast
+0669 Infused
+0670 Regal
+0671 Imposing
+0672 Sleek
+0673 Costume
+0674 Animal
+0675 Cultist's
+0676 Ragged
+0677 Wicked
+0678 Necrotic
+0679 Vile
+0680 Devilish
+0681 Bloodstained
+0682 Storm
+0683 Stone
+0684 Savant's
+0685 Transcendent
+0686 Flame
+0687 Frost
+0688 Divine
+0689 Prophet's
+0690 Servant's
+0691 Defender's
+0692 Monk's
+0693 Absorption
+0694 Lieutenant's
+0695 Stoneskin
+0696 Brawler's
+0697 Axeman's
+0698 Piledriver's
+0699 Swordsman's
+0700 Tactician's
+0701 Tamer's
+0702 (hidden)
+0703 Hunter's
+0704 Expert's
+0705 Traveler's
+0706 Vigor
+0707 (TEMP)Attribute Nonstacking
+0708 (TEMP)Attribute Stacking
+0709 Domination
+0710 Fast Casting
+0711 Hex Disruption
+0712 Illusions
+0713 Inspiration
+0714 Blood Magic
+0715 Curses
+0716 Cursing
+0717 Death Magic
+0718 Necropathy
+0719 The Plague
+0720 Sacrifice
+0721 Feigned Sacrifice
+0722 Soul Reaping
+0723 Vampire
+0724 (TEMP)Increases Enchantment duration.
+0725 (TEMP)Increases Hex duration.
+0726 (TEMP)Increases Stance duration.
+0727 Thunder
+0728 Air Magic
+0729 Stone
+0730 Earth Magic
+0731 The Bibliophile
+0732 Energy Storage
+0733 Scintillation
+0734 Fire Magic
+0735 Fluidity
+0736 Water Magic
+0737 Purity
+0738 Blessings
+0739 Divine Favor
+0740 Peace
+0741 Healing
+0742 Rapid Healing
+0743 Protection
+0744 Justice
+0745 Smiting
+0746 Absorption
+0747 Fury
+0748 Might
+0749 Toughness
+0750 Axe Mastery
+0751 Hammer Mastery
+0752 Sword Mastery
+0753 Tactics
+0754 Beast Mastery
+0755 Marksmanship
+0756 Barrage
+0757 Rapid Shot
+0758 Deadliness
+0759 Preparation
+0760 Expertise
+0761 Survival
+0762 (TEMP)Unblockable
+0763 Jaundiced Gaze
+0764 Wail of Doom
+0765 Hero's Insight
+0766 Gaze of Contempt
+0767 Berzerker's Insight
+0768 Slayer's Insight
+0769 Viper's Defense
+0770 Return
+0771 Aura of Displacement
+0772 Generous Was Tsungrai
+0773 Mighty Was Vorizun
+0774 To The Death!
+0775 Death Blossom
+0776 Twisting Fangs
+0777 Horns of the Ox
+0778 Falling Spider
+0779 Black Lotus Strike
+0780 Fox Fangs
+0781 Moebius Strike
+0782 Jagged Strike
+0783 Unsuspecting Strike
+0784 Entangling Asp
+0785 Mark of Death
+0786 Iron Palm
+0787 Resilient Weapon
+0788 Blind Was Mingson
+0789 Grasping Was Kuurong
+0790 Vengeful Was Khanhei
+0791 Flesh of My Flesh
+0792 Splinter Weapon
+0793 Weapon of Warding
+0794 Wailing Weapon
+0795 Nightmare Weapon
+0796 Sorrow's Flame
+0797 Sorrow's Fist
+0798 Blast Furnace
+0799 Beguiling Haze
+0800 Enduring Toxin
+0801 Shroud of Silence
+0802 Expose Defenses
+0803 Power Leech
+0804 Arcane Languor
+0805 Animate Vampiric Horror
+0806 Cultist's Fervor
+0807 (hidden)
+0808 Reaper's Mark
+0809 Shatterstone
+0810 Protector's Defense
+0811 Run as One
+0812 Defiant Was Xinrae
+0813 Lyssa's Aura
+0814 Shadow Refuge
+0815 Scorpion Wire
+0816 Mirrored Stance
+0817 Discord
+0818 Well of Weariness
+0819 Vampiric Spirit
+0820 Depravity
+0821 Icy Veins
+0822 Weaken Knees
+0823 Burning Speed
+0824 Lava Arrows
+0825 Bed of Coals
+0826 Shadow Form
+0827 Siphon Strength
+0828 Vile Miasma
+0829 (hidden)
+0830 Ray of Judgment
+0831 Primal Rage
+0832 Animate Flesh Golem
+0833 (hidden)
+0834 Reckless Haste
+0835 Blood Bond
+0836 Ride the Lightning
+0837 Energy Boon
+0838 Dwayna's Sorrow
+0839 "Retreat!"
+0840 Poisoned Heart
+0841 Fetid Ground
+0842 Arc Lightning
+0843 Gust
+0844 Churning Earth
+0845 Liquid Flame
+0846 Steam
+0847 Boon Signet
+0848 Reverse Hex
+0849 Lacerating Chop
+0850 Fierce Blow
+0851 Sun and Moon Slash
+0852 Splinter Shot
+0853 Melandru's Shot
+0854 Snare
+0855 (hidden)
+0856 (hidden)
+0857 (hidden)
+0858 Dancing Daggers
+0859 Conjure Nightmare
+0860 Signet of Disruption
+0861 (hidden)
+0862 Ravenous Gaze
+0863 Order of Apostasy
+0864 Oppressive Gaze
+0865 Lightning Hammer
+0866 Vapor Blade
+0867 Healing Light
+0868 (hidden)
+0869 "Coward!"
+0870 Pestilence
+0871 Shadowsong
+0872 (hidden)
+0873 (hidden)
+0874 (hidden)
+0875 (hidden)
+0876 Signet of Shadows
+0877 Lyssa's Balance
+0878 Visions of Regret
+0879 Illusion of Pain
+0880 Stolen Speed
+0881 Ether Signet
+0882 Signet of Disenchantment
+0883 Vocal Minority
+0884 Searing Flames
+0885 Shield Guardian
+0886 Restful Breeze
+0887 Signet of Rejuvenation
+0888 Whirling Axe
+0889 Forceful Blow
+0890 (hidden)
+0891 "None Shall Pass!"
+0892 Quivering Blade
+0893 Seeking Arrows
+0894 (hidden)
+0895 (hidden)
+0896 (hidden)
+0897 (hidden)
+0898 Overload
+0899 Images of Remorse
+0900 Shared Burden
+0901 Soul Bind
+0902 Blood of the Aggressor
+0903 Icy Prism
+0904 Furious Axe
+0905 Auspicious Blow
+0906 "On Your Knees!"
+0907 Dragon Slash
+0908 Marauder's Shot
+0909 Focused Shot
+0910 Spirit Rift
+0911 Union
+0912 (hidden)
+0913 Tranquil Was Tanasen
+0914 Consume Soul
+0915 Spirit Light
+0916 Lamentation
+0917 Rupture Soul
+0918 Spirit to Flesh
+0919 Spirit Burn
+0920 Destruction
+0921 Dissonance
+0922 (hidden)
+0923 Disenchantment
+0924 (hidden)
+0925 Recall
+0926 Sharpen Daggers
+0927 Shameful Fear
+0928 Shadow Shroud
+0929 Shadow of Haste
+0930 Auspicious Incantation
+0931 Power Return
+0932 Complicate
+0933 Shatter Storm
+0934 Unnatural Signet
+0935 Rising Bile
+0936 Envenom Enchantments
+0937 Shockwave
+0938 Ward of Stability
+0939 Icy Shackles
+0940 (hidden)
+0941 Blessed Light
+0942 Withdraw Hexes
+0943 Extinguish
+0944 Signet of Strength
+0945 (hidden)
+0946 Trapper's Focus
+0947 Brambles
+0948 Desperate Strike
+0949 Way of the Fox
+0950 Shadowy Burden
+0951 Siphon Speed
+0952 Death's Charge
+0953 Power Flux
+0954 Expel Hexes
+0955 Rip Enchantment
+0956 (hidden)
+0957 Spell Shield
+0958 Healing Whisper
+0959 Ethereal Light
+0960 Release Enchantments
+0961 Lacerate
+0962 Spirit Transfer
+0963 Restoration
+0964 Vengeful Weapon
+0965 (hidden)
+0966 (hidden)
+0967 (hidden)
+0968 (hidden)
+0969 (hidden)
+0970 (hidden)
+0971 (hidden)
+0972 (hidden)
+0973 Blinding Powder
+0974 Mantis Touch
+0975 Exhausting Assault
+0976 Repeating Strike
+0977 Way of the Lotus
+0978 Mark of Instability
+0979 Mistrust
+0980 Feast of Souls
+0981 Recuperation
+0982 Shelter
+0983 Weapon of Shadow
+0984 (hidden)
+0985 Caltrops
+0986 Nine Tail Strike
+0987 Way of the Empty Palm
+0988 Temple Strike
+0989 Golden Phoenix Strike
+0990 Expunge Enchantments
+0991 Deny Hexes
+0992 Triple Chop
+0993 Enraged Smash
+0994 Renewing Smash
+0995 Tiger Stance
+0996 Standing Slash
+0997 Famine
+0998 (hidden)
+0999 (hidden)
+1000 (hidden)
+1001 (hidden)
+1002 (hidden)
+1003 (hidden)
+1004 (hidden)
+1005 (hidden)
+1006 (hidden)
+1007 (hidden)
+1008 (hidden)
+1009 (hidden)
+1010 (hidden)
+1011 (hidden)
+1012 (hidden)
+1013 (hidden)
+1014 (hidden)
+1015 (hidden)
+1016 (hidden)
+1017 (hidden)
+1018 Critical Eye
+1019 Critical Strike
+1020 Blades of Steel
+1021 Jungle Strike
+1022 Wild Strike
+1023 Leaping Mantis Sting
+1024 Black Mantis Thrust
+1025 Disrupting Stab
+1026 Golden Lotus Strike
+1027 Critical Defenses
+1028 Way of Perfection
+1029 Dark Apostasy
+1030 Locust's Fury
+1031 Shroud of Distress
+1032 Heart of Shadow
+1033 Impale
+1034 Seeping Wound
+1035 Assassin's Promise
+1036 Signet of Malice
+1037 Dark Escape
+1038 Crippling Dagger
+1039 (hidden)
+1040 Spirit Walk
+1041 Unseen Fury
+1042 Flashing Blades
+1043 Dash
+1044 Dark Prison
+1045 Palm Strike
+1046 (hidden)
+1047 (hidden)
+1048 Revealed Enchantment
+1049 Revealed Hex
+1050 (hidden)
+1051 (hidden)
+1052 Accumulated Pain
+1053 Psychic Distraction
+1054 Ancestor's Visage
+1055 Recurring Insecurity
+1056 Kitah's Burden
+1057 Psychic Instability
+1058 (hidden)
+1059 Hex Eater Signet
+1060 (hidden)
+1061 Feedback
+1062 Arcane Larceny
+1063 (hidden)
+1064 (hidden)
+1065 (hidden)
+1066 Spoil Victor
+1067 Lifebane Strike
+1068 Bitter Chill
+1069 Taste of Pain
+1070 Defile Enchantments
+1071 Shivers of Dread
+1072 (hidden)
+1073 (hidden)
+1074 (hidden)
+1075 Vampiric Swarm
+1076 Blood Drinker
+1077 Vampiric Bite
+1078 Wallow's Bite
+1079 Enfeebling Touch
+1080 (hidden)
+1081 Teinai's Wind
+1082 Shock Arrow
+1083 Unsteady Ground
+1084 Sliver Armor
+1085 Ash Blast
+1086 Dragon's Stomp
+1087 (hidden)
+1088 Second Wind
+1089 (hidden)
+1090 Smoldering Embers
+1091 Double Dragon
+1092 (hidden)
+1093 Teinai's Heat
+1094 Breath of Fire
+1095 Star Burst
+1096 Glyph of Essence
+1097 Teinai's Prison
+1098 Mirror of Ice
+1099 Teinai's Crystals
+1100 Celestial Storm
+1101 (hidden)
+1102 (hidden)
+1103 (hidden)
+1104 (hidden)
+1105 (hidden)
+1106 (hidden)
+1107 (hidden)
+1108 (hidden)
+1109 (hidden)
+1110 (hidden)
+1111 (hidden)
+1112 (hidden)
+1113 Kirin's Wrath
+1114 Spirit Bond
+1115 Air of Enchantment
+1116 (hidden)
+1117 Heaven's Delight
+1118 Healing Burst
+1119 Karei's Healing Circle
+1120 Jamei's Gaze
+1121 Gift of Health
+1122 (hidden)
+1123 Life Sheath
+1124 (hidden)
+1125 (hidden)
+1126 Empathic Removal
+1127 (hidden)
+1128 Resurrection Chant
+1129 Word of Censure
+1130 Spear of Light
+1131 Stonesoul Strike
+1132 (hidden)
+1133 Drunken Blow
+1134 Leviathan's Sweep
+1135 Jaizhenju Strike
+1136 Penetrating Chop
+1137 Yeti Smash
+1138 (hidden)
+1139 (hidden)
+1140 Storm of Swords
+1141 "You Will Die!"
+1142 Auspicious Parry
+1143 (hidden)
+1144 Silverwing Slash
+1145 (hidden)
+1146 Shove
+1147 (hidden)
+1148 (hidden)
+1149 (hidden)
+1150 (hidden)
+1151 (hidden)
+1152 (hidden)
+1153 (hidden)
+1154 (hidden)
+1155 (hidden)
+1156 (hidden)
+1157 (hidden)
+1158 (hidden)
+1159 (hidden)
+1160 (hidden)
+1161 (hidden)
+1162 (hidden)
+1163 (hidden)
+1164 (hidden)
+1165 (hidden)
+1166 (hidden)
+1167 (hidden)
+1168 (hidden)
+1169 (hidden)
+1170 (hidden)
+1171 (hidden)
+1172 (hidden)
+1173 (hidden)
+1174 (hidden)
+1175 (hidden)
+1176 (hidden)
+1177 (hidden)
+1178 (hidden)
+1179 (hidden)
+1180 (hidden)
+1181 (hidden)
+1182 (hidden)
+1183 (hidden)
+1184 (hidden)
+1185 (hidden)
+1186 (hidden)
+1187 (hidden)
+1188 (hidden)
+1189 (hidden)
+1190 (hidden)
+1191 Sundering Attack
+1192 Zojun's Shot
+1193 (hidden)
+1194 Predatory Bond
+1195 Heal as One
+1196 Zojun's Haste
+1197 Needling Shot
+1198 Broad Head Arrow
+1199 Glass Arrows
+1200 Archer's Signet
+1201 Savage Pounce
+1202 Enraged Lunge
+1203 Bestial Mauling
+1204 (hidden)
+1205 Poisonous Bite
+1206 Pounce
+1207 Celestial Stance
+1208 (hidden)
+1209 Bestial Fury
+1210 (hidden)
+1211 Viper's Nest
+1212 Equinox
+1213 Tranquility
+1214 (hidden)
+1215 Clamor of Souls
+1216 (hidden)
+1217 Ritual Lord
+1218 Cruel Was Daoshen
+1219 Protective Was Kaolai
+1220 Attuned Was Songkai
+1221 Resilient Was Xiko
+1222 Lively Was Naomei
+1223 Anguished Was Lingwah
+1224 Draw Spirit
+1225 Channeled Strike
+1226 Spirit Boon Strike
+1227 Essence Strike
+1228 Spirit Siphon
+1229 Explosive Growth
+1230 Boon of Creation
+1231 Spirit Channeling
+1232 Armor of Unfeeling
+1233 Soothing Memories
+1234 Mend Body and Soul
+1235 Dulled Weapon
+1236 Binding Chains
+1237 Painful Bond
+1238 Signet of Creation
+1239 Signet of Spirits
+1240 Soul Twisting
+1241 (hidden)
+1242 (hidden)
+1243 (hidden)
+1244 Ghostly Haste
+1245 Gaze from Beyond
+1246 Ancestor's Rage
+1247 Pain
+1248 (hidden)
+1249 Displacement
+1250 Preservation
+1251 Life
+1252 Earthbind
+1253 Bloodsong
+1254 (hidden)
+1255 Wanderlust
+1256 (hidden)
+1257 Spirit Light Weapon
+1258 Brutal Weapon
+1259 Guided Weapon
+1260 Meekness
+1261 Frigid Armor
+1262 Healing Ring
+1263 Renew Life
+1264 Doom
+1265 Wielder's Boon
+1266 Soothing
+1267 Vital Weapon
+1268 Weapon of Quickening
+1269 Signet of Rage
+1270 (hidden)
+1271 (hidden)
+1272 (hidden)
+1273 (hidden)
+1274 (hidden)
+1275 (hidden)
+1276 (hidden)
+1277 (hidden)
+1278 (hidden)
+1279 (hidden)
+1280 (hidden)
+1281 (hidden)
+1282 (hidden)
+1283 (hidden)
+1284 (hidden)
+1285 (hidden)
+1286 (hidden)
+1287 (hidden)
+1288 (hidden)
+1289 (hidden)
+1290 (hidden)
+1291 (hidden)
+1292 (hidden)
+1293 (hidden)
+1294 (hidden)
+1295 (hidden)
+1296 (hidden)
+1297 (hidden)
+1298 (hidden)
+1299 (hidden)
+1300 (hidden)
+1301 (hidden)
+1302 (hidden)
+1303 (hidden)
+1304 (hidden)
+1305 (hidden)
+1306 (hidden)
+1307 (hidden)
+1308 (hidden)
+1309 (hidden)
+1310 (hidden)
+1311 (hidden)
+1312 (hidden)
+1313 (hidden)
+1314 (hidden)
+1315 (hidden)
+1316 (hidden)
+1317 (hidden)
+1318 (hidden)
+1319 (hidden)
+1320 (hidden)
+1321 (hidden)
+1322 (hidden)
+1323 (hidden)
+1324 (hidden)
+1325 (hidden)
+1326 Trade Winds
+1327 Dragon Blast
+1328 Imperial Majesty
+1329 (hidden)
+1330 (hidden)
+1331 (hidden)
+1332 (hidden)
+1333 Extend Conditions
+1334 Hypochondria
+1335 Wastrel's Demise
+1336 Spiritual Pain
+1337 Drain Delusions
+1338 Persistence of Memory
+1339 Symbols of Inspiration
+1340 Symbolic Celerity
+1341 Frustration
+1342 Tease
+1343 Ether Phantom
+1344 Web of Disruption
+1345 Enchanter's Conundrum
+1346 Signet of Illusions
+1347 Discharge Enchantment
+1348 Hex Eater Vortex
+1349 Mirror of Disenchantment
+1350 Simple Thievery
+1351 Animate Shambling Horror
+1352 Order of Undeath
+1353 Putrid Flesh
+1354 Feast for the Dead
+1355 Jagged Bones
+1356 Contagion
+1357 (hidden)
+1358 Ulcerous Lungs
+1359 Pain of Disenchantment
+1360 Mark of Fury
+1361 (hidden)
+1362 Corrupt Enchantment
+1363 Signet of Sorrow
+1364 Signet of Suffering
+1365 Signet of Lost Souls
+1366 Well of Darkness
+1367 Blinding Surge
+1368 Chilling Winds
+1369 Lightning Bolt
+1370 Storm Djinn's Haste
+1371 Stone Striker
+1372 Sandstorm
+1373 Stone Sheath
+1374 Ebon Hawk
+1375 Stoneflesh Aura
+1376 Glyph of Restoration
+1377 Ether Prism
+1378 Master of Magic
+1379 Glowing Gaze
+1380 Savannah Heat
+1381 Flame Djinn's Haste
+1382 Freezing Gust
+1383 (hidden)
+1384 (hidden)
+1385 (hidden)
+1386 (hidden)
+1387 (hidden)
+1388 (hidden)
+1389 (hidden)
+1390 Judge's Intervention
+1391 Supportive Spirit
+1392 Watchful Healing
+1393 Healer's Boon
+1394 Healer's Covenant
+1395 Balthazar's Pendulum
+1396 Words of Comfort
+1397 Light of Deliverance
+1398 Scourge Enchantment
+1399 Shield of Absorption
+1400 Reversal of Damage
+1401 Mending Touch
+1402 Critical Chop
+1403 Agonizing Chop
+1404 Flail
+1405 Charging Strike
+1406 Headbutt
+1407 Lion's Comfort
+1408 Rage of the Ntouka
+1409 Mokele Smash
+1410 Overbearing Smash
+1411 Signet of Stamina
+1412 "You're All Alone!"
+1413 Burst of Aggression
+1414 Enraging Charge
+1415 Crippling Slash
+1416 Barbarous Slice
+1417 Vial of Purified Water
+1418 Disarm Trap
+1419 (hidden)
+1420 (hidden)
+1421 (hidden)
+1422 (hidden)
+1423 Master of Magic
+1424 (hidden)
+1425 (hidden)
+1426 (hidden)
+1427 (hidden)
+1428 (hidden)
+1429 (hidden)
+1430 (hidden)
+1431 (hidden)
+1432 (hidden)
+1433 (hidden)
+1434 (hidden)
+1435 (hidden)
+1436 (hidden)
+1437 (hidden)
+1438 Junundu Feast
+1439 Junundu Strike
+1440 Junundu Smash
+1441 Junundu Siege
+1442 Junundu Tunnel
+1443 Leave Junundu
+1444 (hidden)
+1445 (hidden)
+1446 (hidden)
+1447 (hidden)
+1448 (hidden)
+1449 (hidden)
+1450 (hidden)
+1451 (hidden)
+1452 (hidden)
+1453 (hidden)
+1454 (hidden)
+1455 (hidden)
+1456 (hidden)
+1457 (hidden)
+1458 (hidden)
+1459 (hidden)
+1460 (hidden)
+1461 (hidden)
+1462 (hidden)
+1463 (hidden)
+1464 (hidden)
+1465 Prepared Shot
+1466 Burning Arrow
+1467 Arcing Shot
+1468 Strike as One
+1469 Crossfire
+1470 Barbed Arrows
+1471 Scavenger's Focus
+1472 Toxicity
+1473 Quicksand
+1474 Storm's Embrace
+1475 Trapper's Speed
+1476 Tripwire
+1477 (hidden)
+1478 Renewing Surge
+1479 Offering of Spirit
+1480 Spirit's Gift
+1481 Death Pact Signet
+1482 Reclaim Essence
+1483 Banishing Strike
+1484 Mystic Sweep
+1485 Eremite's Attack
+1486 Reap Impurities
+1487 Twin Moon Sweep
+1488 Victorious Sweep
+1489 Irresistible Sweep
+1490 Pious Assault
+1491 Mystic Twister
+1492 (hidden)
+1493 Grenth's Fingers
+1494 (hidden)
+1495 Aura of Thorns
+1496 Balthazar's Rage
+1497 Dust Cloak
+1498 Staggering Force
+1499 Pious Renewal
+1500 Mirage Cloak
+1501 (hidden)
+1502 Arcane Zeal
+1503 Mystic Vigor
+1504 Watchful Intervention
+1505 Vow of Piety
+1506 Vital Boon
+1507 Heart of Holy Flame
+1508 Extend Enchantments
+1509 Faithful Intervention
+1510 Sand Shards
+1511 (hidden)
+1512 Lyssa's Haste
+1513 Guiding Hands
+1514 Fleeting Stability
+1515 Armor of Sanctity
+1516 Mystic Regeneration
+1517 Vow of Silence
+1518 Avatar of Balthazar
+1519 Avatar of Dwayna
+1520 Avatar of Grenth
+1521 Avatar of Lyssa
+1522 Avatar of Melandru
+1523 Meditation
+1524 Eremite's Zeal
+1525 Natural Healing
+1526 Imbue Health
+1527 Mystic Healing
+1528 Dwayna's Touch
+1529 Pious Restoration
+1530 Signet of Pious Light
+1531 Intimidating Aura
+1532 Mystic Sandstorm
+1533 Winds of Disenchantment
+1534 Rending Touch
+1535 Crippling Sweep
+1536 Wounding Strike
+1537 Wearying Strike
+1538 Lyssa's Assault
+1539 Chilling Victory
+1540 Conviction
+1541 Enchanted Haste
+1542 Pious Concentration
+1543 Pious Haste
+1544 Whirling Charge
+1545 Test of Faith
+1546 Blazing Spear
+1547 Mighty Throw
+1548 Cruel Spear
+1549 Harrier's Toss
+1550 Unblockable Throw
+1551 Spear of Lightning
+1552 Wearying Spear
+1553 Anthem of Fury
+1554 Crippling Anthem
+1555 Defensive Anthem
+1556 Godspeed
+1557 Anthem of Flame
+1558 "Go for the Eyes!"
+1559 Anthem of Envy
+1560 Song of Power
+1561 Zealous Anthem
+1562 Aria of Zeal
+1563 Lyric of Zeal
+1564 Ballad of Restoration
+1565 Chorus of Restoration
+1566 Aria of Restoration
+1567 Song of Concentration
+1568 Anthem of Guidance
+1569 Energizing Chorus
+1570 Song of Purification
+1571 Hexbreaker Aria
+1572 "Brace Yourself!"
+1573 Awe
+1574 Enduring Harmony
+1575 Blazing Finale
+1576 Burning Refrain
+1577 Finale of Restoration
+1578 Mending Refrain
+1579 Purifying Finale
+1580 Bladeturn Refrain
+1581 Glowing Signet
+1582 (hidden)
+1583 Leader's Zeal
+1584 Leader's Comfort
+1585 Signet of Synergy
+1586 Angelic Protection
+1587 Angelic Bond
+1588 Cautery Signet
+1589 "Stand Your Ground!"
+1590 "Lead the Way!"
+1591 "Make Haste!"
+1592 "We Shall Return!"
+1593 "Never Give Up!"
+1594 "Help Me!"
+1595 "Fall Back!"
+1596 "Incoming!"
+1597 "They're on Fire!"
+1598 "Never Surrender!"
+1599 "It's just a flesh wound."
+1600 Barbed Spear
+1601 Vicious Attack
+1602 Stunning Strike
+1603 Merciless Spear
+1604 Disrupting Throw
+1605 Wild Throw
+1606 (hidden)
+1607 (hidden)
+1608 (hidden)
+1609 (hidden)
+1610 (hidden)
+1611 (hidden)
+1612 (hidden)
+1613 (hidden)
+1614 (hidden)
+1615 (hidden)
+1616 (hidden)
+1617 (hidden)
+1618 (hidden)
+1619 (hidden)
+1620 (hidden)
+1621 (hidden)
+1622 (hidden)
+1623 (hidden)
+1624 (hidden)
+1625 (hidden)
+1626 (hidden)
+1627 (hidden)
+1628 (hidden)
+1629 (hidden)
+1630 (hidden)
+1631 (hidden)
+1632 (hidden)
+1633 Malicious Strike
+1634 Shattering Assault
+1635 Golden Skull Strike
+1636 Black Spider Strike
+1637 Golden Fox Strike
+1638 Deadly Haste
+1639 Assassin's Remedy
+1640 Fox's Promise
+1641 Feigned Neutrality
+1642 Hidden Caltrops
+1643 Assault Enchantments
+1644 Wastrel's Collapse
+1645 Lift Enchantment
+1646 Augury of Death
+1647 Signet of Toxic Shock
+1648 Signet of Twilight
+1649 Way of the Assassin
+1650 Shadow Walk
+1651 Death's Retreat
+1652 Shadow Prison
+1653 Swap
+1654 Shadow Meld
+1655 Price of Pride
+1656 Air of Disenchantment
+1657 Signet of Clumsiness
+1658 Symbolic Posture
+1659 Toxic Chill
+1660 Well of Silence
+1661 Glowstone
+1662 Mind Blast
+1663 Elemental Flame
+1664 Invoke Lightning
+1665 (hidden)
+1666 (hidden)
+1667 (hidden)
+1668 (hidden)
+1669 (hidden)
+1670 (hidden)
+1671 (hidden)
+1672 (hidden)
+1673 (hidden)
+1674 (hidden)
+1675 (hidden)
+1676 (hidden)
+1677 (hidden)
+1678 (hidden)
+1679 (hidden)
+1680 (hidden)
+1681 (hidden)
+1682 (hidden)
+1683 Pensive Guardian
+1684 Scribe's Insight
+1685 Holy Haste
+1686 Glimmer of Light
+1687 Zealous Benediction
+1688 Defender's Zeal
+1689 Signet of Mystic Wrath
+1690 Signet of Removal
+1691 Dismiss Condition
+1692 Divert Hexes
+1693 Counterattack
+1694 Magehunter Strike
+1695 Soldier's Strike
+1696 Decapitate
+1697 Magehunter's Smash
+1698 Soldier's Stance
+1699 Soldier's Defense
+1700 Frenzied Defense
+1701 Steady Stance
+1702 Steelfang Slash
+1703 (hidden)
+1704 (hidden)
+1705 (hidden)
+1706 (hidden)
+1707 (hidden)
+1708 (hidden)
+1709 (hidden)
+1710 (hidden)
+1711 (hidden)
+1712 (hidden)
+1713 (hidden)
+1714 (hidden)
+1715 (hidden)
+1716 (hidden)
+1717 (hidden)
+1718 (hidden)
+1719 Screaming Shot
+1720 Keen Arrow
+1721 Rampage as One
+1722 Forked Arrow
+1723 Disrupting Accuracy
+1724 Expert's Dexterity
+1725 Roaring Winds
+1726 Magebane Shot
+1727 Natural Stride
+1728 Heket's Rampage
+1729 Smoke Trap
+1730 Infuriating Heat
+1731 Vocal was Sogolon
+1732 Destructive Was Glaive
+1733 Wielder's Strike
+1734 Gaze of Fury
+1735 (hidden)
+1736 Spirit's Strength
+1737 Wielder's Zeal
+1738 Sight Beyond Sight
+1739 Renewing Memories
+1740 Wielder's Remedy
+1741 Ghostmirror Light
+1742 Signet of Ghostly Might
+1743 Signet of Binding
+1744 Caretaker's Charge
+1745 Anguish
+1746 (hidden)
+1747 Empowerment
+1748 Recovery
+1749 Weapon of Fury
+1750 Xinrae's Weapon
+1751 Warmonger's Weapon
+1752 Weapon of Remedy
+1753 Rending Sweep
+1754 Onslaught
+1755 Mystic Corruption
+1756 Grenth's Grasp
+1757 Veil of Thorns
+1758 Harrier's Grasp
+1759 Vow of Strength
+1760 Ebon Dust Aura
+1761 Zealous Vow
+1762 Heart of Fury
+1763 Zealous Renewal
+1764 Attacker's Insight
+1765 Rending Aura
+1766 Featherfoot Grace
+1767 Reaper's Sweep
+1768 Harrier's Haste
+1769 Focused Anger
+1770 Natural Temper
+1771 Song of Restoration
+1772 Lyric of Purification
+1773 Soldier's Fury
+1774 Aggressive Refrain
+1775 Energizing Finale
+1776 Signet of Aggression
+1777 Remedy Signet
+1778 Signet of Return
+1779 "Make Your Time!"
+1780 "Can't Touch This!"
+1781 "Find Their Weakness!"
+1782 "The Power Is Yours!"
+1783 Slayer's Spear
+1784 Swift Javelin
+1785 (hidden)
+1786 (hidden)
+1787 (hidden)
+1788 (hidden)
+1789 (hidden)
+1790 (hidden)
+1791 (hidden)
+1792 (hidden)
+1793 (hidden)
+1794 (hidden)
+1795 (hidden)
+1796 (hidden)
+1797 (hidden)
+1798 (hidden)
+1799 (hidden)
+1800 (hidden)
+1801 (hidden)
+1802 (hidden)
+1803 (hidden)
+1804 (hidden)
+1805 (hidden)
+1806 (hidden)
+1807 (hidden)
+1808 (hidden)
+1809 (hidden)
+1810 (hidden)
+1811 (hidden)
+1812 (hidden)
+1813 (hidden)
+1814 Lightbringer's Gaze
+1815 Lightbringer Signet
+1816 Sunspear Rebirth Signet
+1817 (hidden)
+1818 (hidden)
+1819 (hidden)
+1820 (hidden)
+1821 (hidden)
+1822 (hidden)
+1823 (hidden)
+1824 (hidden)
+1825 (hidden)
+1826 (hidden)
+1827 (hidden)
+1828 (hidden)
+1829 (hidden)
+1830 (hidden)
+1831 (hidden)
+1832 (hidden)
+1833 (hidden)
+1834 (hidden)
+1835 (hidden)
+1836 (hidden)
+1837 (hidden)
+1838 (hidden)
+1839 (hidden)
+1840 (hidden)
+1841 (hidden)
+1842 (hidden)
+1843 (hidden)
+1844 (hidden)
+1845 (hidden)
+1846 (hidden)
+1847 (hidden)
+1848 (hidden)
+1849 (hidden)
+1850 (hidden)
+1851 (hidden)
+1852 (hidden)
+1853 (hidden)
+1854 (hidden)
+1855 (hidden)
+1856 (hidden)
+1857 (hidden)
+1858 (hidden)
+1859 (hidden)
+1860 (hidden)
+1861 Choking Breath
+1862 Junundu Bite
+1863 Blinding Breath
+1864 Burning Breath
+1865 Junundu Wail
+1866 (hidden)
+1867 (hidden)
+1868 (hidden)
+1869 (hidden)
+1870 (hidden)
+1871 (hidden)
+1872 (hidden)
+1873 (hidden)
+1874 (hidden)
+1875 (hidden)
+1876 (hidden)
+1877 (hidden)
+1878 (hidden)
+1879 (hidden)
+1880 (hidden)
+1881 (hidden)
+1882 (hidden)
+1883 (hidden)
+1884 (hidden)
+1885 (hidden)
+1886 (hidden)
+1887 (hidden)
+1888 (hidden)
+1889 (hidden)
+1890 (hidden)
+1891 (hidden)
+1892 (hidden)
+1893 (hidden)
+1894 (hidden)
+1895 (hidden)
+1896 (hidden)
+1897 (hidden)
+1898 (hidden)
+1899 (hidden)
+1900 (hidden)
+1901 (hidden)
+1902 (hidden)
+1903 (hidden)
+1904 (hidden)
+1905 (hidden)
+1906 (hidden)
+1907 (hidden)
+1908 (hidden)
+1909 (hidden)
+1910 (hidden)
+1911 (hidden)
+1912 (hidden)
+1913 (hidden)
+1914 (hidden)
+1915 (hidden)
+1916 (hidden)
+1917 (hidden)
+1918 Ram
+1919 Harden Shell
+1920 Rollerbeetle Dash
+1921 Super Rollerbeetle
+1922 Rollerbeetle Echo
+1923 Distracting Lunge
+1924 Rollerbeetle Blast
+1925 Spit Rocks
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948 Shadow Sanctuary (Luxon)
+1949 Ether Nightmare (Luxon)
+1950 Signet of Corruption (Luxon)
+1951 Elemental Lord (Luxon)
+1952 Selfless Spirit (Luxon)
+1953 Triple Shot (Luxon)
+1954 "Save Yourselves!" (Luxon)
+1955 Aura of Holy Might (Luxon)
+1956
+1957 Spear of Fury (Luxon)
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986 Vampiric Assault
+1987 Lotus Strike
+1988 Golden Fang Strike
+1989
+1990 Falling Lotus Strike
+1991 Sadist's Signet
+1992 Signet of Distraction
+1993 Signet of Recall
+1994 Power Lock
+1995 Waste Not, Want Not
+1996 Sum of All Fears
+1997 Withering Aura
+1998 Cacophony
+1999 Winter's Embrace
+2000 Earthen Shackles
+2001 Ward of Weakness
+2002 Glyph of Swiftness
+2003 Cure Hex
+2004 Smite Condition
+2005 Smiter's Boon
+2006 Castigation Signet
+2007 Purifying Veil
+2008 Pulverizing Smash
+2009 Keen Chop
+2010 Knee Cutter
+2011 Grapple
+2012 Radiant Scythe
+2013 Grenth's Aura
+2014 Signet of Pious Restraint
+2015 Farmer's Scythe
+2016 Energetic Was Lee Sa
+2017 Anthem of Weariness
+2018 Anthem of Disruption
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051 Summon Spirits (Luxon)
+2052 Shadow Fang
+2053 Calculated Risk
+2054 Shrinking Armor
+2055 Aneurysm
+2056 Wandering Eye
+2057 Foul Feast
+2058 Putrid Bile
+2059 Shell Shock
+2060 Glyph of Immolation
+2061 Patient Spirit
+2062 Healing Ribbon
+2063 Steadfast Soul
+2064 Spotless Mind
+2065 Spotless Soul
+2066 Disarm
+2067 "I Meant to Do That!"
+2068 Rapid Fire
+2069 Sloth Hunter's Shot
+2070 Aura Slicer
+2071 Zealous Sweep
+2072 Pure Was Li Ming
+2073 Weapon of Aggression
+2074 Chest Thumper
+2075 Hasty Refrain
+2076
+2077
+2078
+2079
+2080
+2081
+2082
+2083
+2084
+2085
+2086
+2087
+2088
+2089
+2090
+2091 Shadow Sanctuary (Kurzick)
+2092 Ether Nightmare (Kurzick)
+2093 Signet of Corruption (Kurzick)
+2094 Elemental Lord (Kurzick)
+2095 Selfless Spirit (Kurzick)
+2096 Triple Shot (Kurzick)
+2097 "Save Yourselves!" (Kurzick)
+2098 Aura of Holy Might (Kurzick)
+2099 Spear of Fury (Kurzick)
+2100 Summon Spirits (Kurzick)
+2101 Critical Agility
+2102 Cry of Pain
+2103 Necrosis
+2104 Intensity
+2105 Seed of Life
+2106 Call of the Eye
+2107 Whirlwind Attack
+2108 Never Rampage Alone
+2109 Eternal Aura
+2110 Vampirism
+2111
+2112 "There's Nothing to Fear!"
+2113
+2114
+2115
+2116 Sneak Attack
+2117
+2118
+2119
+2120
+2121
+2122 Spirit World Retreat
+2123
+2124
+2125 Spirit Roar
+2126
+2127
+2128 Volfen Pounce
+2129 Volfen Claw
+2130
+2131 Volfen Bloodlust
+2132 Volfen Agility
+2133 Volfen Blessing
+2134
+2135 Trampling Ox
+2136 Smoke Powder Defense
+2137 Confusing Images
+2138 Hexer's Vigor
+2139 Masochism
+2140 Piercing Trap
+2141 Companionship
+2142 Feral Aggression
+2143 Disrupting Shot
+2144 Volley
+2145 Expert Focus
+2146 Pious Fury
+2147 Crippling Victory
+2148 Sundering Weapon
+2149 Weapon of Renewal
+2150 Maiming Spear
+2151
+2152
+2153
+2154
+2155
+2156
+2157
+2158
+2159
+2160
+2161
+2162
+2163
+2164
+2165 Diamondshard Grave
+2166
+2167 Diamondshard Mist
+2168
+2169
+2170
+2171
+2172
+2173
+2174
+2175
+2176
+2177
+2178
+2179
+2180
+2181
+2182
+2183
+2184
+2185
+2186 Signet of Deadly Corruption
+2187 Way of the Master
+2188 Defile Defenses
+2189 Angorodon's Gaze
+2190 Magnetic Surge
+2191 Slippery Ground
+2192 Glowing Ice
+2193 Energy Blast
+2194 Distracting Strike
+2195 Symbolic Strike
+2196 Soldier's Speed
+2197 Body Blow
+2198 Body Shot
+2199 Poison Tip Signet
+2200 Signet of Mystic Speed
+2201 Shield of Force
+2202 Mending Grip
+2203 Spiritleech Aura
+2204 Rejuvenation
+2205 Agony
+2206 Ghostly Weapon
+2207 Inspirational Speech
+2208 Burning Shield
+2209 Holy Spear
+2210 Spear Swipe
+2211 Alkar's Alchemical Acid
+2212 Light of Deldrimor
+2213 Ear Bite
+2214 Low Blow
+2215 Brawling Headbutt
+2216 "Don't Trip!"
+2217 "By Ural's Hammer!"
+2218 Drunken Master
+2219 Great Dwarf Weapon
+2220 Great Dwarf Armor
+2221 Breath of the Great Dwarf
+2222 Snow Storm
+2223 Black Powder Mine
+2224 Summon Mursaat
+2225 Summon Ruby Djinn
+2226 Summon Ice Imp
+2227 Summon Naga Shaman
+2228 Deft Strike
+2229 Signet of Infection
+2230 Tryptophan Signet
+2231 Ebon Battle Standard of Courage
+2232 Ebon Battle Standard of Wisdom
+2233 Ebon Battle Standard of Honor
+2234 Ebon Vanguard Sniper Support
+2235 Ebon Vanguard Assassin Support
+2236 Well of Ruin
+2237 Atrophy
+2238 Spear of Redemption
+2239
+2240
+2241
+2242
+2243
+2244
+2245
+2246
+2247
+2248
+2249
+2250
+2251
+2252
+2253
+2254
+2255
+2256
+2257
+2258
+2259
+2260
+2261
+2262
+2263
+2264
+2265
+2266
+2267
+2268
+2269
+2270
+2271
+2272
+2273
+2274
+2275
+2276
+2277
+2278
+2279
+2280
+2281
+2282
+2283
+2284
+2285
+2286
+2287
+2288
+2289
+2290
+2291
+2292
+2293
+2294
+2295
+2296
+2297
+2298
+2299
+2300
+2301
+2302
+2303
+2304
+2305
+2306
+2307
+2308
+2309
+2310
+2311
+2312
+2313
+2314
+2315
+2316
+2317
+2318
+2319
+2320
+2321
+2322
+2323
+2324
+2325
+2326
+2327
+2328
+2329
+2330
+2331
+2332
+2333
+2334
+2335
+2336
+2337
+2338
+2339
+2340
+2341
+2342
+2343
+2344
+2345
+2346
+2347
+2348
+2349
+2350
+2351
+2352
+2353 "Finish Him!"
+2354 "Dodge This!"
+2355 "I Am The Strongest!"
+2356 "I Am Unstoppable!"
+2357 A Touch of Guile
+2358 "You Move Like a Dwarf!"
+2359 "You Are All Weaklings!"
+2360 Feel No Pain
+2361 Club of a Thousand Bears
+2362
+2363
+2364
+2365
+2366
+2367
+2368
+2369
+2370
+2371
+2372
+2373 Heart of the Norn
+2374 Ursan Blessing
+2375
+2376
+2377
+2378
+2379 Volfen Blessing
+2380
+2381
+2382
+2383
+2384 Raven Blessing
+2385
+2386
+2387
+2388
+2389 Totem of Man
+2390
+2391
+2392
+2393
+2394
+2395
+2396
+2397
+2398
+2399
+2400
+2401
+2402
+2403
+2404
+2405
+2406
+2407
+2408
+2409
+2410
+2411 Mindbender
+2412 Smooth Criminal
+2413 Technobabble
+2414 Radiation Field
+2415 Asuran Scan
+2416 Air of Superiority
+2417 Mental Block
+2418 Pain Inverter
+2419
+2420 Ebon Escape
+2421 Weakness Trap
+2422 Winds
+2423 Dwarven Stability
+2424 Stout-Hearted
+2425
+2426 Decipher Inscriptions
+2427 Rebel Yell
+2428
+2429 Asuran Flame Staff
+2430 Aura of the Bloodstone
+2431 Aura of the Bloodstone
+2432 Aura of the Bloodstone
+2433 Haunted Ground
+2434 Asuran Bodyguard
+2435 Asuran Bodyguard
+2436 Asuran Bodyguard
+2437 Energy Channel
+2438 Hunt Rampage (Asura)
+2439
+2440 Boss Bounty
+2441 Hunt Point Bonus (Asura)
+2442 Hunt Point Bonus (Asura)
+2443 Hunt Point Bonus (Asura)
+2444 Time Attack
+2445 Dwarven Raider
+2446 Dwarven Raider
+2447 Dwarven Raider
+2448 Dwarven Raider
+2449 Great Dwarf's Blessing
+2450 Hunt Rampage (Deldrimor)
+2451
+2452 Boss Bounty
+2453 Hunt Point Bonus
+2454 Hunt Point Bonus
+2455
+2456 Time Attack
+2457 Vanguard Patrol
+2458 Vanguard Patrol
+2459 Vanguard Patrol
+2460 Vanguard Patrol
+2461 Vanguard Commendation
+2462 Hunt Rampage (Ebon Vanguard)
+2463
+2464 Boss Bounty
+2465
+2466
+2467
+2468
+2469 Norn Hunting Party
+2470 Norn Hunting Party
+2471 Norn Hunting Party
+2472 Norn Hunting Party
+2473 Strength of the Norn
+2474 Hunt Rampage (Norn)
+2475
+2476
+2477
+2478
+2479
+2480
+2481 Asuran Bodyguard
+2482
+2483 Gloat
+2484 Metamorphosis
+2485 Inner Fire
+2486 Elemental Shift
+2487 Dryder's Feast
+2488 Fungal Explosion
+2489 Blood Rage
+2490 Parasitic Bite
+2491 False Death
+2492 Ooze Combination
+2493 Ooze Division
+2494 Bear Form
+2495
+2496 Spore Explosion
+2497 Dormant Husk
+2498 Monkey See, Monkey Do
+2499
+2500 Tengu's Mimicry
+2501 Tongue Lash
+2502 Soulrending Shriek
+2503
+2504 Siege Devourer
+2505 Siege Devourer Feast
+2506 Devourer Bite
+2507 Siege Devourer Swipe
+2508 Devourer Siege
+2509 HYAHHHHH!
+2510 HYAHHHHH!
+2511 HYAHHHHH!
+2512 HYAHHHHH!
+2513 Dismount Siege Devourer
+2514 The Master's Mark
+2515 The Sniper's Spear
+2516 Mount
+2517 Reverse Polarity Fire Shield
+2518 Tengu's Gaze
+2519
+2520 (Hidden)
+2521 (Hidden)
+2522 (Hidden)
+2523
+2524
+2525
+2526
+2527 Duncan's Defense
+2528
+2529
+2530
+2531
+2532
+2533
+2534
+2535
+2536 Invigorating Mist
+2537 Courageous Was Saidra
+2538 (Hidden)
+2539 (Hidden)
+2540 (Hidden)
+2541 Golem Boosters
+2542
+2543
+2544 Tongue Whip
+2545 Lit Torch
+2546 Dishonorable
+2547
+2548 Veteran Asuran Bodyguard
+2549 Veteran Dwarven Raider
+2550 Veteran Vanguard Patrol
+2551 Veteran Norn Hunting Party
+2552
+2553
+2554
+2555
+2556
+2557
+2558
+2559
+2560
+2561
+2562
+2563
+2564
+2565 Dwarven Raider
+2566 Dwarven Raider
+2567 Dwarven Raider
+2568 Dwarven Raider
+2569
+2570 Great Dwarf's Blessing
+2571 Boss Bounty
+2572
+2573
+2574 Hunt Point Bonus
+2575
+2576 Hunt Rampage (Deldrimor)
+2577 Time Attack
+2578 Vanguard Patrol
+2579
+2580
+2581
+2582
+2583 Boss Bounty
+2584
+2585 Hunt Point Bonus
+2586
+2587
+2588
+2589 Vanguard Commendation
+2590
+2591 Norn Hunting Party
+2592 Norn Hunting Party
+2593 Norn Hunting Party
+2594 Norn Hunting Party
+2595
+2596 Boss Bounty
+2597
+2598 Strength of the Norn
+2599 Hunt Point Bonus
+2600
+2601 Hunt Point Bonus
+2602 Hunt Rampage (Norn)
+2603 Time Attack
+2604 (hidden)
+2605 (hidden)
+2606 (hidden)
+2607 (hidden)
+2608 (hidden)
+2609 (hidden)
+2610 (hidden)
+2611 (hidden)
+2612 (hidden)
+2613 (hidden)
+2614 (hidden)
+2615 (hidden)
+2616 (hidden)
+2617 (hidden)
+2618 (hidden)
+2619 (hidden)
+2620 (hidden)
+2621 (hidden)
+2622 (hidden)
+2623 (hidden)
+2624 (hidden)
+2625 (hidden)
+2626 Complicate
+2627 Reaper's Mark
+2628 Enfeeble
+2629
+2630 Signet of Lost Souls
+2631
+2632 Searing Flames
+2633 Glowing Gaze
+2634 Steam
+2635 Flame Djinn's Haste
+2636 Liquid Flame
+2637
+2638
+2639 Smite Condition
+2640 Crippling Slash
+2641 Sun and Moon Slash
+2642 Enraging Charge
+2643 Tiger Stance
+2644 Burning Arrow
+2645 Natural Stride
+2646 Falling Lotus Strike
+2647 Anthem of Weariness
+2648 Pious Fury
+2649 Pie Induced Ecstasy
+2650
+2651 Togo (disguise)
+2652 Turai Ossa (disguise)
+2653 Gwen (disguise)
+2654 Saul D'Alessio (disguise)
+2655 Dragon Empire Rage
+2656 Call to the Spirit Realm
+2657
+2658 Hide
+2659 Feign Death
+2660 Flee
+2661 Throw Rock
+2662
+2663 Siege Strike
+2664 (Hidden)
+2665 (Hidden)
+2666
+2667 (Hidden)
+2668 (Hidden)
+2669 (Hidden)
+2670 "Form Up and Advance!"
+2671
+2672 Spectral Agony (hex)
+2673 (Hidden)
+2674 (Hidden)
+2675 (Hidden)
+2676 "For Elona!"
+2677 Giant Stomp (Turai Ossa)
+2678 Whirlwind Attack (Turai Ossa)
+2679
+2680 Distortion
+2681 Shared Burden
+2682 Sum of All Fears
+2683 Castigation Signet
+2684 Unnatural Signet
+2685 Dragon Slash
+2686 Essence Strike
+2687 Spirit Burn
+2688 Spirit Rift
+2689 Mend Body and Soul
+2690 Offering of Spirit
+2691 Disenchantment
+2692 Fire Dart
+2693
+2694
+2695
+2696
+2697
+2698
+2699 Journey to the North
+2700
+2701 Rat Form
+2702
+2703
+2704
+2705
+2706
+2707
+2708
+2709
+2710
+2711
+2712 Party Time!
+2713
+2714
+2715
+2716
+2717
+2718
+2719
+2720
+2721
+2722
+2723
+2724
+2725
+2726
+2727
+2728
+2729
+2730
+2731
+2732
+2733
+2734
+2735
+2736
+2737
+2738
+2739
+2740
+2741
+2742
+2743
+2744
+2745
+2746
+2747
+2748
+2749
+2750
+2751
+2752
+2753
+2754
+2755
+2756
+2757
+2758
+2759
+2760
+2761
+2762
+2763
+2764
+2765
+2766
+2767
+2768
+2769
+2770
+2771
+2772
+2773
+2774
+2775
+2776
+2777
+2778
+2779
+2780
+2781
+2782
+2783
+2784
+2785
+2786
+2787
+2788
+2789
+2790
+2791
+2792
+2793
+2794
+2795
+2796
+2797
+2798
+2799
+2800
+2801
+2802
+2803
+2804
+2805
+2806
+2807
+2808
+2809
+2810
+2811
+2812
+2813
+2814
+2815
+2816
+2817
+2818
+2819
+2820
+2821
+2822
+2823
+2824
+2825
+2826
+2827
+2828
+2829
+2830
+2831
+2832
+2833
+2834
+2835
+2836
+2837
+2838
+2839
+2840
+2841 Awakened Head Form
+2842 Spider Form
+2843
+2844 Golem Form
+2845
+2846 Norn Form
+2847
+2848 Rift Warden Form
+2849
+2850
+2851 Snowman Form
+2852 Energy Drain (PvP)
+2853 Energy Tap (PvP)
+2854 PvP (effect)
+2855 Ward Against Melee (PvP)
+2856 Lightning Orb (PvP)
+2857 Aegis (PvP)
+2858 "Watch Yourself!" (PvP)
+2859 Enfeeble (PvP)
+2860 Ether Renewal (PvP)
+2861 Penetrating Attack (PvP)
+2862 Shadow Form (PvP)
+2863 Discord (PvP)
+2864 Sundering Attack (PvP)
+2865 Ritual Lord (PvP)
+2866 Flesh of My Flesh (PvP)
+2867 Ancestors' Rage (PvP)
+2868 Splinter Weapon (PvP)
+2869 Assassin's Remedy (PvP)
+2870 Blinding Surge
+2871 Light of Deliverance (PvP)
+2872 Death Pact Signet (PvP)
+2873 Mystic Sweep (PvP)
+2874 Eremite's Attack (PvP)
+2875 Harrier's Toss (PvP)
+2876 Defensive Anthem (PvP)
+2877 Ballad of Restoration (PvP)
+2878 Song of Restoration (PvP)
+2879 "Incoming!"
+2880 "Never Surrender!" (PvP)
+2881
+2882 Mantra of Inscriptions (PvP)
+2883 "For Great Justice!" (PvP)
+2884 Mystic Regeneration (PvP)
+2885 Enfeebling Blood (PvP)
+2886 Summoning Sickness
+2887 Signet of Judgment (PvP)
+2888 Chilling Victory (PvP)
+2889
+2890
+2891 Unyielding Aura (PvP)
+2892 Spirit Bond (PvP)
+2893 Weapon of Warding (PvP)
+2894
+2895 Smiter's Boon (PvP)
+2896 Battle Fervor (Deactivating R.O.X.)
+2897 Cloak of Faith (Deactivating R.O.X.)
+2898 Dark Aura (Deactivating R.O.X.)
+2899
+2900
+2901
+2902 Reactor Blast
+2903 Reactor Blast Timer
+2904 Jade Brotherhood Disguise
+2905 Internal Power Engaged
+2906 Target Acquisition
+2907 N.O.X. Beam
+2908 N.O.X. Field Dash
+2909 N.O.X.ion Buster
+2910 Countdown
+2911 Bit Golem Breaker
+2912 Bit Golem Rectifier
+2913 Bit Golem Crash
+2914 Bit Golem Force
+2915
+2916 N.O.X. Phantom
+2917 N.O.X. Thunder
+2918 N.O.X. Lock On
+2919 N.O.X. Driver
+2920 N.O.X. Fire
+2921 N.O.X. Knuckle
+2922 N.O.X. Divider Drive
+2923
+2924
+2925 Sloth Hunter's Shot (PvP)
+2926
+2927
+2928
+2929
+2930
+2931
+2932
+2933
+2934
+2935
+2936
+2937
+2938
+2939
+2940
+2941
+2942
+2943
+2944
+2945
+2946
+2947
+2948
+2949
+2950
+2951
+2952
+2953
+2954
+2955
+2956
+2957
+2958
+2959 Expert's Dexterity (PvP)
+2960
+2961
+2962
+2963
+2964
+2965 Signet of Spirits (PvP)
+2966 Signet of Ghostly Might (PvP)
+2967 Avatar of Grenth (PvP)
+2968 Oversized Tonic Warning
+2969 Read the Wind (PvP)
