@@ -58,4 +58,13 @@ module GW
   end
 end
 
-GW::TemplateReader.new($stdin.read).display
+if ARGV.empty?
+  GW::TemplateReader.new($stdin.read).display
+
+else
+  ARGV.each{ |file|
+    puts("***** #{file}:")
+    GW::TemplateReader.new(File.read(file)).display
+    puts("*****")
+  }
+end
