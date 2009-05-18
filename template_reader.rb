@@ -35,36 +35,123 @@ module GW
       }
     end
 
-    def display
-      puts("  Template: #{Template[template]}")
-      puts("   Version: #{version}")
-      puts("Profession: #{Profession[primary]} / #{Profession[secondary]}")
-      puts
-      puts("Attributes:")
+    def display o = $stdout
+      o.puts("  Template: #{Template[template]}")
+      o.puts("   Version: #{version}")
+      o.puts("      Code: #{code}")
+      o.puts("Profession: #{Profession[primary]} / #{Profession[secondary]}")
+      o.puts
+      o.puts("Attributes:")
       @attributes.each{ |attribute|
-        puts("%20s %2d" % [Attributes[attribute.first], attribute.last])
+        o.puts("%20s %2d" % [Attributes[attribute.first], attribute.last])
       }
-      puts
-      puts("    Skills:")
+      o.puts
+      o.puts("    Skills:")
       8.times{ |i|
-        puts("%23s" % Skills[@skills[i]][5..-1])
+        o.puts("%23s" % Skills[@skills[i]][5..-1])
       }
     end
 
+    def display_snippet o = $stdout
+      require 'stringio'
+      sio = StringIO.new
+      display(sio)
+      o.puts(add_wiki_link(remove_leading_spaces(sio.string)))
+    end
+
+    def display_xhtml o = $stdout
+      require 'stringio'
+      sio = StringIO.new
+      display(sio)
+      o.puts(add_br_newline(add_wiki_link(remove_leading_spaces(sio.string))))
+    end
+
     private
-    def extract! n
-      @data.slice!(0, n).reverse.to_i(2)
+    def extract! n; @data.slice!(0, n).reverse.to_i(2);   end
+    def remove_leading_spaces s; s.gsub(/^ +/, '');       end
+    def add_br_newline        s; s.gsub("\n", "<br/>\n"); end
+
+    def add_wiki_link s
+      r = s.split(/Skills:/)
+      r.first + "Skills:" + r.last.gsub(/([^\n]+)/){
+        "<a href=\"http://guildwars.wikia.com/wiki/#{$1}\">#{$1}</a>"
+      }
     end
   end
 end
 
-if ARGV.empty?
-  GW::TemplateReader.new($stdin.read).display
+require 'optparse'
+
+argv = ARGV.dup
+opts = {}
+parser = OptionParser.new{ |parser|
+  parser.banner  = "Usage: ruby #{__FILE__} [options] [files]"
+  parser.version = '1.0'
+
+  msg_h = 'Show this message'
+  msg_i = 'Read from stdin'
+  msg_t = 'Output text (default)'
+  msg_s = 'Output xhtml snippet (for forum/blog post)'
+  msg_p = 'Output xhtml page'
+
+  parser.on('-h', '--help',    msg_h){ puts(parser); exit }
+  parser.on('-i', '--stdin',   msg_i){ |o| opts[:i] = o }
+  parser.on('-t', '--text',    msg_t){ |o| opts[:t] = o }
+  parser.on('-s', '--snippet', msg_s){ |o| opts[:s] = o }
+  parser.on('-p', '--page',    msg_p){ |o| opts[:p] = o }
+}
+parser.parse!
+
+if argv.empty?
+  puts(parser)
 
 else
-  ARGV.each{ |file|
-    puts("***** #{file}:")
-    GW::TemplateReader.new(File.read(file)).display
-    puts("*****")
-  }
+  input = nil
+  if opts[:i]
+    input = [['/dev/stdin', $stdin.read]]
+  else
+    input = ARGV.map{ |file| [file, File.read(file)] }
+  end
+
+  if opts[:s]
+    input.each{ |i|
+      puts("<h1> #{i.first}:</h1>")
+      GW::TemplateReader.new(i.last).display_snippet
+      puts('<hr/>')
+    }
+
+  elsif opts[:p]
+    puts <<-XHTML
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US">
+  <head profile="http://www.w3.org/2005/10/profile">
+    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+    <title>Guild Wars Skills Template Reader</title>
+  </head>
+  <body>
+    <div>
+XHTML
+
+    input.each{ |i|
+      puts("<h1> #{i.first}:</h1>")
+      GW::TemplateReader.new(i.last).display_xhtml
+      puts('<hr/>')
+    }
+
+    puts <<-XHTML
+    </div>
+  </body>
+</html>
+XHTML
+
+
+  else
+    input.each{ |i|
+      puts("== #{i.first}:")
+      GW::TemplateReader.new(i.last).display
+      puts('-' * 25)
+    }
+
+  end
 end
