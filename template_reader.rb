@@ -1,4 +1,4 @@
-#encoding: utf-8
+# encoding: utf-8
 
 # spec from: http://guildwars.wikia.com/wiki/Skill_template_format
 
@@ -72,9 +72,11 @@ module GW
     def add_br_newline        s; s.gsub("\n", "<br/>\n"); end
 
     def add_wiki_link s
+      require 'cgi'
       r = s.split(/Skills:/)
       r.first + "Skills:" + r.last.gsub(/([^\n]+)/){
-        "<a href=\"http://guildwars.wikia.com/wiki/#{$1}\">#{$1}</a>"
+        s = $1
+        "<a href=\"http://guildwars.wikia.com/wiki/#{CGI.escape(s.gsub(' ', '_'))}\">#{s}</a>"
       }
     end
   end
