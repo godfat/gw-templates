@@ -13,7 +13,7 @@ module GW
 
     def initialize code
       @code = code.dup.freeze
-      @data = code.unpack('m*').first.unpack('B*').first.scan(/\d{6}/).map(&:reverse).join
+      @data = @code.unpack('m*').first.unpack('B*').first.scan(/\d{6}/).map(&:reverse).join
 
       @template  = extract!(4)
       @version   = extract!(4)
