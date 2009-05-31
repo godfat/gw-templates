@@ -1,0 +1,21 @@
+== Triple Monk
+0H-Mo-Me-Heal-Ogden.txt    (Light of Deliverance + Resurrection Chant)
+0H-Mo-Me-Pro-Dunkoro.txt   (Aura of Faith        + Resurrection Chant)
+0H-Mo-Me-Smit-Tahlkora.txt (Smiter's Boon        + Resurrection Chant)
+
+== They're On Fire!
+0H-E--Me-Burn.txt (Searing Flames)
+0H-P--W--Pro.txt  (Angelic Bond + Signet of Return)
+
+== Fragility
+0H-Me----Illusion.txt      (Fragility + Phantom Pain + Shrinking Armor)
+0H-Mo-Me-Smit-Tahlkora.txt (Ray of Judgement         + Resurrection Chant)
+0H-N--Me-Animate-Curse.txt (Enfeebling Blood + Weaken Armor)
+
+== Splinter Barrage
+0H-R--Me-Barrage.txt        (Barrage + Favorite Wind)
+0H-Rt-Me-Spike-Splinter.txt (Spike   + Splinter Weapon + Flesh of My Flesh)
+
+== Minion
+0H-Rt-Me-Restore.txt (spirit + Flesh of My Flesh)
+0H-N--Me-Animate.txt (Jagged Bones)

@@ -8,12 +8,13 @@ module GW
     Profession = %w[None Warrior Ranger Monk Necromancer Mesmer Elementalist Assassin Ritualist Paragon Dervish]
     Attributes = File.read(File.join(File.dirname(__FILE__), 'code_attributes.txt')).split("\n")
     Skills     = File.read(File.join(File.dirname(__FILE__), 'code_skills.txt'    )).split("\n")
+    Base64Map  = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 
     attr_reader(:code, :template, :version, :primary, :secondary, :attributes, :skills)
 
     def initialize code
       @code = code.dup.freeze
-      @data = code.unpack('m*').first.unpack('B*').first.scan(/\d{6}/).map(&:reverse).join
+      @data = decode64(@code)
 
       @template  = extract!(4)
       @version   = extract!(4)
@@ -67,6 +68,9 @@ module GW
     end
 
     private
+    def decode64 code
+      code.chars.map{ |char| ('%06d' % Base64Map.index(char).to_s(2)).reverse }.join
+    end
     def extract! n; @data.slice!(0, n).reverse.to_i(2);   end
     def remove_leading_spaces s; s.gsub(/^ +/, '');       end
     def add_br_newline        s; s.gsub("\n", "<br/>\n"); end
