@@ -37,19 +37,21 @@ module GW
     end
 
     def display o = $stdout
-      o.puts("  Template: #{Template[template]}")
-      o.puts("   Version: #{version}")
-      o.puts("      Code: #{code}")
-      o.puts("Profession: #{Profession[primary]} / #{Profession[secondary]}")
+      o.puts("*   Template: #{Template[template]}")
+      o.puts("*    Version: #{version}")
+      o.puts("*       Code: #{code}")
+      o.puts("* Profession: #{Profession[primary]}/#{Profession[secondary]}")
       o.puts
-      o.puts("Attributes:")
+      o.puts("* Attributes:")
+      o.puts
       @attributes.each{ |attribute|
-        o.puts("%20s %2d" % [Attributes[attribute.first], attribute.last])
+        o.puts("  - %20s %2d" % [Attributes[attribute.first], attribute.last])
       }
       o.puts
-      o.puts("    Skills:")
+      o.puts("* Skills:")
+      o.puts
       8.times{ |i|
-        o.puts("%23s" % Skills[@skills[i]][5..-1])
+        o.puts("  - %23s" % Skills[@skills[i]][5..-1])
       }
     end
 
@@ -78,7 +80,7 @@ module GW
     def add_wiki_link s
       require 'cgi'
       r = s.split(/Skills:/)
-      r.first + "Skills:" + r.last.gsub(/([^\n]+)/){
+      r.first + "Skills:" + r.last.gsub(/-\s+([^\n]+)/){
         s = $1
         "<a href=\"http://www.guildwiki.org/#{CGI.escape(s.gsub(' ', '_'))}\">#{s}</a>"
       }
@@ -154,9 +156,11 @@ XHTML
 
   else
     input.each{ |i|
-      puts("== #{i.first}:")
+      puts("## #{i.first}:")
+      puts
       GW::TemplateReader.new(i.last).display
-      puts('-' * 25)
+      puts
+      puts
     }
 
   end
