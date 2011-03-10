@@ -80,7 +80,7 @@ module GW
       r = s.split(/Skills:/)
       r.first + "Skills:" + r.last.gsub(/([^\n]+)/){
         s = $1
-        "<a href=\"http://guildwars.wikia.com/wiki/#{CGI.escape(s.gsub(' ', '_'))}\">#{s}</a>"
+        "<a href=\"http://www.guildwiki.org/#{CGI.escape(s.gsub(' ', '_'))}\">#{s}</a>"
       }
     end
   end
