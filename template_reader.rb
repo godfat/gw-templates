@@ -40,7 +40,8 @@ module GW
       o.puts("*   Template: #{Template[template]}")
       o.puts("*    Version: #{version}")
       o.puts("*       Code: #{code}")
-      o.puts("* Profession: #{Profession[primary]}/#{Profession[secondary]}")
+      o.puts("* Profession: #{Profession[primary]} /" \
+                          " #{Profession[secondary]}")
       o.puts
       o.puts("* Attributes:")
       o.puts
@@ -73,14 +74,14 @@ module GW
     def decode64 code
       code.chars.map{ |char| ('%06d' % Base64Map.index(char).to_s(2)).reverse }.join
     end
-    def extract! n; @data.slice!(0, n).reverse.to_i(2);   end
-    def remove_leading_spaces s; s.gsub(/^ +/, '');       end
-    def add_br_newline        s; s.gsub("\n", "<br/>\n"); end
+    def extract! n; @data.slice!(0, n).reverse.to_i(2)        ; end
+    def remove_leading_spaces s; s.gsub(/^(  )?[\-\*]? +/, ''); end
+    def add_br_newline        s; s.gsub("\n", "<br/>\n")      ; end
 
     def add_wiki_link s
       require 'cgi'
       r = s.split(/Skills:/)
-      r.first + "Skills:" + r.last.gsub(/-\s+([^\n]+)/){
+      r.first + "Skills:" + r.last.gsub(/([^\n]+)/){
         s = $1
         "<a href=\"http://www.guildwiki.org/#{CGI.escape(s.gsub(' ', '_'))}\">#{s}</a>"
       }
