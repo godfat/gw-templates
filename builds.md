@@ -966,14 +966,14 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQkTEZJXHSpYSkrAeTeLejGLtAA
+*       Code: OQkTEV5WVSpYSkrAeTeLejGLtAA
 * Profession: Warrior / Paragon
 
 * Attributes:
 
-  -             Strength 12
-  -          Axe Mastery 12
-  -              Tactics  3
+  -             Strength 10
+  -          Axe Mastery 11
+  -              Tactics 10
 
 * Skills:
 
