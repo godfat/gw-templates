@@ -306,7 +306,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQhkAYCywGyTGoH4TzBjzqn08iB
+*       Code: OQhkAYCywGyTGoH4TzBWgxp08iB
 * Profession: Mesmer / Ritualist
 
 * Attributes:
@@ -322,8 +322,8 @@
   -            Leech Signet
   -                   Tease
   -      Cry of Frustration
+  -            Inspired Hex
   -                    Life
-  -            Recuperation
   -      Mend Body and Soul
   -       Flesh of My Flesh
 
