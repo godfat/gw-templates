@@ -357,7 +357,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OwUUMsm8Y4OZg76KZmQQqHba0IA
+*       Code: OwUUMsm8Y4OZg76KZmQQqHvE0IA
 * Profession: Monk / Mesmer
 
 * Attributes:
@@ -375,7 +375,7 @@
   -     Reversal of Fortune
   -           Aura of Faith
   -       Protective Spirit
-  -       Dismiss Condition
+  -           Convert Hexes
   -      Resurrection Chant
 
 
