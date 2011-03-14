@@ -23,17 +23,41 @@
   -            Critical Eye
 
 
+## Skills/0H-A--W-.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OwFi0xjLVBdFqwkwY8dwEUo/AA
+* Profession: Assassin / Warrior
+
+* Attributes:
+
+  -       Dagger Mastery 12
+  -     Critical Strikes 11
+
+* Skills:
+
+  -             Palm Strike
+  -            Trampling Ox
+  -          Falling Spider
+  -         Horns of the Ox
+  -    Falling Lotus Strike
+  -           Death Blossom
+  -               Wild Blow
+  -            Critical Eye
+
+
 ## Skills/0H-D--Mo-Melandru.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOj0MpMLPCYo7zd8ufLvyX0IA
+*       Code: OgOjkyrDLPCYo7zV8ufLvyX0IA
 * Profession: Dervish / Monk
 
 * Attributes:
 
-  -      Healing Prayers  3
   -       Scythe Mastery 12
+  -        Earth Prayers  3
   -            Mysticism 12
 
 * Skills:
@@ -41,35 +65,10 @@
   -         Lyssa's Assault
   -        Victorious Sweep
   -         Twin Moon Sweep
-  -     Heart of Holy Flame
+  -              Vital Boon
   -       Intimidating Aura
   -   Faithful Intervention
   -      Avatar of Melandru
-  -      Resurrection Chant
-
-
-## Skills/0H-D--Mo-Strike.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgOj0MpMLTAYXgQXcfjbjXlXoRA
-* Profession: Dervish / Monk
-
-* Attributes:
-
-  -      Healing Prayers  3
-  -       Scythe Mastery 12
-  -            Mysticism 12
-
-* Skills:
-
-  -         Wounding Strike
-  -           Zealous Sweep
-  -        Victorious Sweep
-  -          Radiant Scythe
-  -         Zealous Renewal
-  -     Heart of Holy Flame
-  -   Faithful Intervention
   -      Resurrection Chant
 
 
@@ -306,7 +305,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQhkAYCywGyTGoH4TzBWgxp08iB
+*       Code: OQhkAYCywGyTGoHYB8p5gxp08iB
 * Profession: Mesmer / Ritualist
 
 * Attributes:
@@ -320,9 +319,9 @@
 
   -             Power Drain
   -            Leech Signet
+  -            Inspired Hex
   -                   Tease
   -      Cry of Frustration
-  -            Inspired Hex
   -                    Life
   -      Mend Body and Soul
   -       Flesh of My Flesh
@@ -357,7 +356,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OwUUMsm8Y4OZg76KZmQQqHvE0IA
+*       Code: OwUUMsm8Y4OZg76KZmQQqHQN0IA
 * Profession: Monk / Mesmer
 
 * Attributes:
@@ -375,7 +374,7 @@
   -     Reversal of Fortune
   -           Aura of Faith
   -       Protective Spirit
-  -           Convert Hexes
+  -             Reverse Hex
   -      Resurrection Chant
 
 
@@ -455,6 +454,31 @@
   -                Epidemic
   -            Hypochondria
   -              Foul Feast
+
+
+## Skills/0H-N--Me-Icy.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OAVDMTxGTZAVVKgnO1MNiJgbhA
+* Profession: Necromancer / Mesmer
+
+* Attributes:
+
+  -    Inspiration Magic  3
+  -          Death Magic 12
+  -         Soul Reaping 12
+
+* Skills:
+
+  -             Power Drain
+  -    Signet of Lost Souls
+  -             Putrid Bile
+  -             Rising Bile
+  -               Icy Veins
+  -        Angorodon's Gaze
+  -              Foul Feast
+  -               Masochism
 
 
 ## Skills/0H-N--Me-Minion-Icy.txt:
@@ -1263,7 +1287,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACiIykMtM54ctVO5DeNVNNAAA
+*       Code: OACiIykMtM54UO5DeNVNdtNAAA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1275,11 +1299,11 @@
 
   -          Essence Strike
   -             Spirit Rift
-  -      Warmonger's Weapon
   -               Bloodsong
   -               Vampirism
   -       Signet of Spirits
   -            Painful Bond
+  -      Warmonger's Weapon
   -       Signet of Capture
 
 
