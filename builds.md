@@ -72,6 +72,31 @@
   -      Resurrection Chant
 
 
+## Skills/0H-D--Mo-Reaper.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOjkyrDLPCYo75W8ufLvib0IA
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -       Scythe Mastery 12
+  -        Earth Prayers  3
+  -            Mysticism 12
+
+* Skills:
+
+  -         Lyssa's Assault
+  -        Victorious Sweep
+  -          Reaper's Sweep
+  -              Vital Boon
+  -       Intimidating Aura
+  -   Faithful Intervention
+  -           Heart of Fury
+  -      Resurrection Chant
+
+
 ## Skills/0H-E--Me-Burn.txt:
 
 *   Template: Skills
