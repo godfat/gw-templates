@@ -76,13 +76,13 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOjkyrDLPCYo75W8ufLvib0IA
+*       Code: OgOj0MpMLPCYo75e8ufLvib0IA
 * Profession: Dervish / Monk
 
 * Attributes:
 
+  -      Healing Prayers  3
   -       Scythe Mastery 12
-  -        Earth Prayers  3
   -            Mysticism 12
 
 * Skills:
@@ -90,7 +90,7 @@
   -         Lyssa's Assault
   -        Victorious Sweep
   -          Reaper's Sweep
-  -              Vital Boon
+  -     Heart of Holy Flame
   -       Intimidating Aura
   -   Faithful Intervention
   -           Heart of Fury
