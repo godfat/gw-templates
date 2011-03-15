@@ -938,7 +938,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAWkMghiITqTGAz5Nv2E7lpj7iB
+*       Code: OAWkMghiITqTGoHYcv2E7lpj7iB
 * Profession: Ritualist / Mesmer
 
 * Attributes:
@@ -951,8 +951,8 @@
 * Skills:
 
   -             Power Drain
-  -             Destruction
-  -         Ancestor's Rage
+  -            Leech Signet
+  -          Renewing Surge
   -      Warmonger's Weapon
   -  Destructive Was Glaive
   -          Essence Strike
