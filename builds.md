@@ -47,6 +47,31 @@
   -            Critical Eye
 
 
+## Skills/0H-D--Mo-Ebon.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOjkqrK7SRXXXaXgbZi7XjboRA
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -       Scythe Mastery 10
+  -        Earth Prayers 10
+  -            Mysticism 11
+
+* Skills:
+
+  -      Irresistible Sweep
+  -          Aura of Thorns
+  -        Staggering Force
+  -          Ebon Dust Aura
+  -         Shield of Force
+  -       Intimidating Aura
+  -         Zealous Renewal
+  -      Resurrection Chant
+
+
 ## Skills/0H-D--Mo-Melandru.txt:
 
 *   Template: Skills
