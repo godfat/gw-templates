@@ -510,7 +510,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAVDMTxGTZAVVKgnOoB1MVBHVA
+*       Code: OAVDMTxGTZAVVKgnO1MoBVBHVA
 * Profession: Necromancer / Mesmer
 
 * Attributes:
@@ -525,8 +525,8 @@
   -    Signet of Lost Souls
   -             Putrid Bile
   -             Rising Bile
-  -              Death Nova
   -               Icy Veins
+  -              Death Nova
   -    Animate Bone Minions
   - Animate Shambling Horror
 
