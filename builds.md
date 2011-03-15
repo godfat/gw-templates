@@ -330,7 +330,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQhkAYCywGyTGoHYB8p5gxp08iB
+*       Code: OQhkAYCywGyTGoHYB8p5gMm08iB
 * Profession: Mesmer / Ritualist
 
 * Attributes:
@@ -347,7 +347,7 @@
   -            Inspired Hex
   -                   Tease
   -      Cry of Frustration
-  -                    Life
+  -       Weapon of Warding
   -      Mend Body and Soul
   -       Flesh of My Flesh
 
