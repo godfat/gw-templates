@@ -201,7 +201,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMGy8OZgw23ocAOCrhDaB
+*       Code: OgVDMGy8OZgew3ocAOA0hDaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -213,11 +213,11 @@
 * Skills:
 
   -             Power Drain
-  -        Lightning Hammer
+  -            Leech Signet
   -         Chain Lightning
   -           Lightning Orb
   -       Enervating Charge
-  -             Ether Prism
+  -        Invoke Lightning
   -          Air Attunement
   -     Aura of Restoration
 
@@ -246,6 +246,31 @@
   -  Glyph of Lesser Energy
   -        Earth Attunement
   -     Aura of Restoration
+
+
+## Skills/0H-E--Rt-Spike.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OghjwwhjIT0CRidTLTEbJTOOXMA
+* Profession: Elementalist / Ritualist
+
+* Attributes:
+
+  -       Energy Storage 12
+  -    Restoration Magic  3
+  -     Channeling Magic 12
+
+* Skills:
+
+  -     Aura of Restoration
+  -            Energy Blast
+  -        Gaze from Beyond
+  -          Essence Strike
+  -  Destructive Was Glaive
+  -        Channeled Strike
+  -             Spirit Rift
+  -       Flesh of My Flesh
 
 
 ## Skills/0H-Me----Domain.txt:
@@ -355,7 +380,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQhkAYCywGyTGoHYB8p5gMm08iB
+*       Code: OQhkAYCywGyTGoHYB8p5Ain08iB
 * Profession: Mesmer / Ritualist
 
 * Attributes:
@@ -372,7 +397,7 @@
   -            Inspired Hex
   -                   Tease
   -      Cry of Frustration
-  -       Weapon of Warding
+  -         Vengeful Weapon
   -      Mend Body and Soul
   -       Flesh of My Flesh
 
@@ -381,7 +406,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OwUTMsGDXKDouSiAkoB8uZ6DNCA
+*       Code: OwUTMsGDXKDQjQiAkoB8uZ6DNCA
 * Profession: Monk / Mesmer
 
 * Attributes:
@@ -393,7 +418,7 @@
 * Skills:
 
   -             Power Drain
-  -    Light of Deliverance
+  -         Word of Healing
   -            Healing Seed
   -          Healing Breeze
   -          Patient Spirit
@@ -781,23 +806,22 @@
   -            Charm Animal
 
 
-## Skills/0H-Rt-Me-Painful-Bond.txt:
+## Skills/0H-Rt----Painful-Bond.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAWkMUgr4SeTGoc+NvmR7M3ysaC
-* Profession: Ritualist / Mesmer
+*       Code: OACjAuiMpNX7y538aGtzcLzqJA
+* Profession: Ritualist / None
 
 * Attributes:
 
-  -    Inspiration Magic  5
   -            Communing 11
-  -     Channeling Magic 11
-  -       Spawning Power  7
+  -     Channeling Magic 12
+  -       Spawning Power  6
 
 * Skills:
 
-  -             Power Drain
+  -      Warmonger's Weapon
   -               Bloodsong
   -                    Pain
   -       Signet of Spirits
@@ -807,75 +831,24 @@
   -            Painful Bond
 
 
-## Skills/0H-Rt-Me-Restore-Charge.txt:
+## Skills/0H-Rt----Restore-Spirit.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAWjMMhMJTZATbDTRTjTciPTXMA
-* Profession: Ritualist / Mesmer
+*       Code: OACiEykMNMJN9MNtNOxJW9cxAA
+* Profession: Ritualist / None
 
 * Attributes:
 
-  -    Inspiration Magic  3
   -    Restoration Magic 12
   -       Spawning Power 12
 
 * Skills:
 
-  -             Power Drain
-  -             Empowerment
   -   Protective Was Kaolai
-  -       Soothing Memories
-  -                    Life
-  -            Rejuvenation
-  -       Spirit Channeling
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt-Me-Restore-Light.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAWjMMhMJTZA9ATOpTjTciVPXMA
-* Profession: Ritualist / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  3
-  -    Restoration Magic 12
-  -       Spawning Power 12
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
-  -            Spirit Light
-  -     Spirit Light Weapon
-  -                    Life
-  -            Rejuvenation
-  -            Recuperation
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt-Me-Restore-Spirit.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAWjMMhMJTZA9ASTiTjTciVPXMA
-* Profession: Ritualist / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  3
-  -    Restoration Magic 12
-  -       Spawning Power 12
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
   -      Mend Body and Soul
-  -            Preservation
+  -       Spirit Channeling
+  -             Empowerment
   -                    Life
   -            Rejuvenation
   -            Recuperation
@@ -886,76 +859,24 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAWjMMhMJPZgeg0ccW9yYW7LGA
+*       Code: OAWjMwhM5MZgegFYYGNt2M7LGA
 * Profession: Ritualist / Mesmer
 
 * Attributes:
 
-  -    Inspiration Magic  3
+  -    Inspiration Magic 12
   -    Restoration Magic 12
-  -       Spawning Power 12
+  -       Spawning Power  3
 
 * Skills:
 
   -             Power Drain
   -            Leech Signet
-  -      Mend Body and Soul
-  -                    Life
-  -            Recuperation
-  -       Weapon of Warding
+  -            Inspired Hex
+  -   Protective Was Kaolai
+  -       Soothing Memories
   -         Xinrae's Weapon
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt-Me-Spike-Life.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAWkMchoITiTGgIMOv2E7lpj7iB
-* Profession: Ritualist / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  7
-  -    Restoration Magic  8
-  -     Channeling Magic 12
-  -       Spawning Power  8
-
-* Skills:
-
-  -             Power Drain
-  -       Drain Enchantment
-  -                    Life
-  -      Warmonger's Weapon
-  -  Destructive Was Glaive
-  -          Essence Strike
-  -             Spirit Rift
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt-Me-Spike-Union.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAWkMYgqITaTGgI84u2E7lpj7iB
-* Profession: Ritualist / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  6
-  -            Communing 10
-  -     Channeling Magic 12
-  -       Spawning Power  6
-
-* Skills:
-
-  -             Power Drain
-  -       Drain Enchantment
-  -                   Union
-  -      Warmonger's Weapon
-  -  Destructive Was Glaive
-  -          Essence Strike
-  -             Spirit Rift
+  -        Wielder's Remedy
   -       Flesh of My Flesh
 
 
@@ -963,24 +884,23 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAWkMghiITqTGoHYcv2E7lpj7iB
+*       Code: OAWjMwhjIPZgeQ3cZSsTmOuLGA
 * Profession: Ritualist / Mesmer
 
 * Attributes:
 
-  -    Inspiration Magic  8
-  -    Restoration Magic  2
+  -    Inspiration Magic 12
+  -    Restoration Magic  3
   -     Channeling Magic 12
-  -       Spawning Power 10
 
 * Skills:
 
   -             Power Drain
   -            Leech Signet
-  -          Renewing Surge
-  -      Warmonger's Weapon
-  -  Destructive Was Glaive
+  -        Gaze from Beyond
   -          Essence Strike
+  -  Destructive Was Glaive
+  -        Channeled Strike
   -             Spirit Rift
   -       Flesh of My Flesh
 
@@ -1312,7 +1232,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACjAqiLpOOzq5ysc+Nj2ntMHA
+*       Code: OACjAqiLpOOzq5ysceNj2ntMHA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1327,7 +1247,7 @@
   -            Painful Bond
   -          Essence Strike
   -               Bloodsong
-  -                    Pain
+  -       Signet of Spirits
   -                 Anguish
   -              Shadowsong
   -              Dissonance
