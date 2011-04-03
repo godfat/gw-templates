@@ -1228,6 +1228,30 @@
   -       Signet of Capture
 
 
+## Skills/1P-Rt----Ritual-Lord.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACiAyk8EMfchTr3Z7bu5GAA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -            Communing 12
+  -       Spawning Power 12
+
+* Skills:
+
+  -             Ritual Lord
+  -                   Union
+  -            Displacement
+  -                 Shelter
+  -              Shadowsong
+  -                    Pain
+  -          Disenchantment
+  -       Signet of Capture
+
+
 ## Skills/1P-Rt----Solo.txt:
 
 *   Template: Skills
