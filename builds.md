@@ -51,7 +51,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOjkqrK7SRXXXaXgbZi7XjboRA
+*       Code: OgOjkqrK7SRXXXaXgbjbZi7XoRA
 * Profession: Dervish / Monk
 
 * Attributes:
@@ -66,9 +66,9 @@
   -          Aura of Thorns
   -        Staggering Force
   -          Ebon Dust Aura
+  -         Zealous Renewal
   -         Shield of Force
   -       Intimidating Aura
-  -         Zealous Renewal
   -      Resurrection Chant
 
 
