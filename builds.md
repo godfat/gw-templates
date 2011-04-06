@@ -47,12 +47,12 @@
   -            Critical Eye
 
 
-## Skills/0H-D--Mo-Ebon.txt:
+## Skills/0H-D-----Ebon.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOjkqrK7SRXXXaXgbjbZi7XoRA
-* Profession: Dervish / Monk
+*       Code: OgCjkqrK7SCYRXXXaXZigbjb7XA
+* Profession: Dervish / None
 
 * Attributes:
 
@@ -62,14 +62,14 @@
 
 * Skills:
 
+  -         Lyssa's Assault
   -      Irresistible Sweep
   -          Aura of Thorns
   -        Staggering Force
+  -         Shield of Force
   -          Ebon Dust Aura
   -         Zealous Renewal
-  -         Shield of Force
   -       Intimidating Aura
-  -      Resurrection Chant
 
 
 ## Skills/0H-D--Mo-Melandru.txt:
@@ -101,7 +101,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOj0MpMLPCYo75e8ufLvib0IA
+*       Code: OgOj0MpMLPC4zN0d8ufLvib0IA
 * Profession: Dervish / Monk
 
 * Attributes:
@@ -113,12 +113,38 @@
 * Skills:
 
   -         Lyssa's Assault
-  -        Victorious Sweep
   -          Reaper's Sweep
+  -        Victorious Sweep
   -     Heart of Holy Flame
   -       Intimidating Aura
   -   Faithful Intervention
   -           Heart of Fury
+  -      Resurrection Chant
+
+
+## Skills/0H-D--Mo-Woundering.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOk0Ep6qyukAGA21l214Wm4+FaE
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -      Healing Prayers  1
+  -       Scythe Mastery 10
+  -        Earth Prayers 10
+  -            Mysticism 11
+
+* Skills:
+
+  -         Lyssa's Assault
+  -         Wounding Strike
+  -          Aura of Thorns
+  -        Staggering Force
+  -         Zealous Renewal
+  -         Shield of Force
+  -       Intimidating Aura
   -      Resurrection Chant
 
 
@@ -277,19 +303,19 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQBDAmwzOZAigPNHcB4AaAPA
+*       Code: OQBDAqwDOZgegPNHcB4AaAPA
 * Profession: Mesmer / None
 
 * Attributes:
 
-  -         Fast Casting  6
+  -         Fast Casting 10
   -     Domination Magic 12
-  -    Inspiration Magic 11
+  -    Inspiration Magic  8
 
 * Skills:
 
   -             Power Drain
-  -       Drain Enchantment
+  -            Leech Signet
   -                   Tease
   -      Cry of Frustration
   -             Power Spike
@@ -560,7 +586,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAVDMTxGTZAVVKgnO1MoBVBHVA
+*       Code: OAVDMTxGTZAVVKgnO1MVBoBbhA
 * Profession: Necromancer / Mesmer
 
 * Attributes:
@@ -576,16 +602,16 @@
   -             Putrid Bile
   -             Rising Bile
   -               Icy Veins
-  -              Death Nova
   -    Animate Bone Minions
-  - Animate Shambling Horror
+  -              Death Nova
+  -               Masochism
 
 
 ## Skills/0H-N--Me-Minion-Jagged.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OAVDMTxGTZAVVKgnOoBLVVBHVA
+*       Code: OAVDMTxGTZAVVKgnOLVVBoBbhA
 * Profession: Necromancer / Mesmer
 
 * Attributes:
@@ -600,35 +626,10 @@
   -    Signet of Lost Souls
   -             Putrid Bile
   -             Rising Bile
-  -              Death Nova
   -            Jagged Bones
   -    Animate Bone Minions
-  - Animate Shambling Horror
-
-
-## Skills/0H-N--Me-Minion-Tainted.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAVDMTxGTZAVVKgqBoBxBVBHVA
-* Profession: Necromancer / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  3
-  -          Death Magic 12
-  -         Soul Reaping 12
-
-* Skills:
-
-  -             Power Drain
-  -    Signet of Lost Souls
-  -             Putrid Bile
-  -           Rotting Flesh
   -              Death Nova
-  -           Tainted Flesh
-  -    Animate Bone Minions
-  - Animate Shambling Horror
+  -               Masochism
 
 
 ## Skills/0H-N--Rt-Minion.txt:
@@ -1281,7 +1282,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACiIykMtM54UO5DeNVNdtNAAA
+*       Code: OACiIykMNAsM54UO5DeNVNdtBA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1291,6 +1292,7 @@
 
 * Skills:
 
+  -       Signet of Capture
   -          Essence Strike
   -             Spirit Rift
   -               Bloodsong
@@ -1298,7 +1300,6 @@
   -       Signet of Spirits
   -            Painful Bond
   -      Warmonger's Weapon
-  -       Signet of Capture
 
 
 ## Skills/1P-Rt-N--Animate.txt:
