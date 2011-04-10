@@ -47,11 +47,11 @@
   -            Critical Eye
 
 
-## Skills/0H-D-----Ebon.txt:
+## Skills/0H-D-----Lyssa.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgCjkqrK7SCYRXXXaXZigbjb7XA
+*       Code: OgCjkqrK7SCYSXjbjXaXZi7XxXA
 * Profession: Dervish / None
 
 * Attributes:
@@ -63,20 +63,71 @@
 * Skills:
 
   -         Lyssa's Assault
-  -      Irresistible Sweep
-  -          Aura of Thorns
+  -           Pious Assault
+  -         Zealous Renewal
+  -     Heart of Holy Flame
   -        Staggering Force
   -         Shield of Force
-  -          Ebon Dust Aura
-  -         Zealous Renewal
   -       Intimidating Aura
+  -         Avatar of Lyssa
+
+
+## Skills/0H-D--Mo-Ebon.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOk0Ep6qyukAW0F4m214Wm4+FaE
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -      Healing Prayers  1
+  -       Scythe Mastery 10
+  -        Earth Prayers 10
+  -            Mysticism 11
+
+* Skills:
+
+  -         Lyssa's Assault
+  -      Irresistible Sweep
+  -          Ebon Dust Aura
+  -        Staggering Force
+  -         Zealous Renewal
+  -         Shield of Force
+  -       Intimidating Aura
+  -      Resurrection Chant
+
+
+## Skills/0H-D--Mo-Grenth.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOj0MpMLPC4or4ecPe3vwX0IA
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -      Healing Prayers  3
+  -       Scythe Mastery 12
+  -            Mysticism 12
+
+* Skills:
+
+  -         Lyssa's Assault
+  -      Irresistible Sweep
+  -           Heart of Fury
+  -         Zealous Renewal
+  -     Heart of Holy Flame
+  -       Intimidating Aura
+  -        Avatar of Grenth
+  -      Resurrection Chant
 
 
 ## Skills/0H-D--Mo-Melandru.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgOj0MpMLPCYo7zd8ufLvyX0IA
+*       Code: OgOj0MpMLPCYo7zdcPe3vyX0IA
 * Profession: Dervish / Monk
 
 * Attributes:
@@ -90,35 +141,10 @@
   -         Lyssa's Assault
   -        Victorious Sweep
   -         Twin Moon Sweep
+  -         Zealous Renewal
   -     Heart of Holy Flame
   -       Intimidating Aura
-  -   Faithful Intervention
   -      Avatar of Melandru
-  -      Resurrection Chant
-
-
-## Skills/0H-D--Mo-Reaper.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgOj0MpMLPC4zN0d8ufLvib0IA
-* Profession: Dervish / Monk
-
-* Attributes:
-
-  -      Healing Prayers  3
-  -       Scythe Mastery 12
-  -            Mysticism 12
-
-* Skills:
-
-  -         Lyssa's Assault
-  -          Reaper's Sweep
-  -        Victorious Sweep
-  -     Heart of Holy Flame
-  -       Intimidating Aura
-  -   Faithful Intervention
-  -           Heart of Fury
   -      Resurrection Chant
 
 
@@ -711,7 +737,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgATY5Lm1JWaL7NzyeLuh2sZAA
+*       Code: OgATY5LmVq3IWaWqWC3wLkzYVCA
 * Profession: Ranger / None
 
 * Attributes:
@@ -722,14 +748,14 @@
 
 * Skills:
 
-  -           Savage Pounce
-  -                  Pounce
   -        Disrupting Lunge
+  -           Savage Pounce
   -         Bestial Mauling
-  -               Crossfire
+  -          Poisonous Bite
   -        Scavenger Strike
-  -          Comfort Animal
-  -            Charm Animal
+  -        Feral Aggression
+  -      Call of Protection
+  -             Heal as One
 
 
 ## Skills/0H-R--Me-Barrage.txt:
@@ -782,29 +808,28 @@
   -        Distracting Shot
 
 
-## Skills/0H-R--P--Pet.txt:
+## Skills/0H-R--P--Prepared-Shot.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgkjYxXYpOxSbZvZWCkxN0mNDA
+*       Code: OgkSc5MTfhMOoSOG5WVgUgyb
 * Profession: Ranger / Paragon
 
 * Attributes:
 
-  -        Beast Mastery 12
-  -            Expertise  8
-  -        Spear Mastery 10
+  -            Expertise 12
+  -         Marksmanship 12
 
 * Skills:
 
-  -           Savage Pounce
-  -                  Pounce
-  -        Disrupting Lunge
-  -         Bestial Mauling
-  -            Barbed Spear
-  -        Scavenger Strike
-  -          Comfort Animal
-  -            Charm Animal
+  -         Disrupting Shot
+  -         Marauder's Shot
+  -            Zojun's Shot
+  -      Penetrating Attack
+  -           Prepared Shot
+  -     Sloth Hunter's Shot
+  -              Rapid Fire
+  -        Signet of Return
 
 
 ## Skills/0H-Rt----Painful-Bond.txt:
@@ -853,6 +878,31 @@
   -                    Life
   -            Rejuvenation
   -            Recuperation
+  -       Flesh of My Flesh
+
+
+## Skills/0H-Rt----Twisting-Shelter.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACjAyhDJPYTrXm7xFOPbOzLGA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -            Communing 12
+  -    Restoration Magic  3
+  -       Spawning Power 12
+
+* Skills:
+
+  -           Soul Twisting
+  -                 Shelter
+  -              Dissonance
+  -                   Union
+  -            Displacement
+  -              Shadowsong
+  -        Boon of Creation
   -       Flesh of My Flesh
 
 
@@ -1209,7 +1259,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACiEykMlOFNNMNtNOxJW9MAAA
+*       Code: OACiEykMNAkOFNNMNtNOxJW9AA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1219,6 +1269,7 @@
 
 * Skills:
 
+  -       Signet of Capture
   -     Spirit Light Weapon
   -       Soothing Memories
   -   Protective Was Kaolai
@@ -1226,14 +1277,13 @@
   -                    Life
   -            Rejuvenation
   -            Recuperation
-  -       Signet of Capture
 
 
 ## Skills/1P-Rt----Ritual-Lord.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACiAyk8EMfchTr3Z7bu5GAA
+*       Code: OACiAyk8MACmPuwp17s9N3cA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1243,6 +1293,7 @@
 
 * Skills:
 
+  -       Signet of Capture
   -             Ritual Lord
   -                   Union
   -            Displacement
@@ -1250,7 +1301,6 @@
   -              Shadowsong
   -                    Pain
   -          Disenchantment
-  -       Signet of Capture
 
 
 ## Skills/1P-Rt----Solo.txt:
@@ -1302,11 +1352,35 @@
   -      Warmonger's Weapon
 
 
+## Skills/1P-Rt----Twisting-Shelter.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACiAyk8MAwmWvM3jLce2cmA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -            Communing 12
+  -       Spawning Power 12
+
+* Skills:
+
+  -       Signet of Capture
+  -           Soul Twisting
+  -                 Shelter
+  -              Dissonance
+  -                   Union
+  -            Displacement
+  -              Shadowsong
+  -        Boon of Creation
+
+
 ## Skills/1P-Rt-N--Animate.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OASjUwhDJTVBLVjTVPciNTOTDAA
+*       Code: OASjUwhDJTDAVBLVjTVPciNTOTA
 * Profession: Ritualist / Necromancer
 
 * Attributes:
@@ -1317,6 +1391,7 @@
 
 * Skills:
 
+  -       Signet of Capture
   -    Animate Bone Minions
   -            Jagged Bones
   -                    Life
@@ -1324,6 +1399,5 @@
   -            Rejuvenation
   -        Explosive Growth
   -        Boon of Creation
-  -       Signet of Capture
 
 
