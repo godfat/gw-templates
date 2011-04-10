@@ -1,4 +1,4 @@
-## Skills/0H-A--Me-.txt:
+## Skills/H-A-Me.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -23,7 +23,7 @@
   -            Critical Eye
 
 
-## Skills/0H-A--W-.txt:
+## Skills/H-A-W.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -47,7 +47,7 @@
   -            Critical Eye
 
 
-## Skills/0H-D-----Lyssa.txt:
+## Skills/H-D-Lyssa.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -72,7 +72,7 @@
   -         Avatar of Lyssa
 
 
-## Skills/0H-D--Mo-Ebon.txt:
+## Skills/H-D-Mo-Ebon.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -98,7 +98,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-D--Mo-Grenth.txt:
+## Skills/H-D-Mo-Grenth.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -123,7 +123,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-D--Mo-Melandru.txt:
+## Skills/H-D-Mo-Melandru.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -148,7 +148,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-D--Mo-Woundering.txt:
+## Skills/H-D-Mo-Woundering.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -174,7 +174,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-E--Me-Burn.txt:
+## Skills/H-E-Me-Burn.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -199,7 +199,7 @@
   -     Aura of Restoration
 
 
-## Skills/0H-E--Me-Explode.txt:
+## Skills/H-E-Me-Explode.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -224,7 +224,7 @@
   -     Aura of Restoration
 
 
-## Skills/0H-E--Me-FireDoT.txt:
+## Skills/H-E-Me-FireDoT.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -249,7 +249,7 @@
   -     Aura of Restoration
 
 
-## Skills/0H-E--Me-Spike.txt:
+## Skills/H-E-Me-Spike.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -274,7 +274,7 @@
   -     Aura of Restoration
 
 
-## Skills/0H-E--Me-Ward.txt:
+## Skills/H-E-Me-Ward.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -300,7 +300,7 @@
   -     Aura of Restoration
 
 
-## Skills/0H-E--Rt-Spike.txt:
+## Skills/H-E-Rt-Spike.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -325,7 +325,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-Me----Domain.txt:
+## Skills/H-Me-Domain.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -350,33 +350,7 @@
   -               Diversion
 
 
-## Skills/0H-Me----Illusion.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQBEAWwiMLlBQE4TlDsCMBYAyCA
-* Profession: Mesmer / None
-
-* Attributes:
-
-  -         Fast Casting  6
-  -       Illusion Magic 12
-  -     Domination Magic  2
-  -    Inspiration Magic 11
-
-* Skills:
-
-  -             Power Drain
-  -       Drain Enchantment
-  -                   Tease
-  -      Cry of Frustration
-  -              Clumsiness
-  -               Fragility
-  -         Shrinking Armor
-  -            Phantom Pain
-
-
-## Skills/0H-Me-E-.txt:
+## Skills/H-Me-E.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -402,7 +376,33 @@
   -             Deep Freeze
 
 
-## Skills/0H-Me-N--Conditions.txt:
+## Skills/H-Me-Illusion.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQBEAWwiMLlBQE4TlDsCMBYAyCA
+* Profession: Mesmer / None
+
+* Attributes:
+
+  -         Fast Casting  6
+  -       Illusion Magic 12
+  -     Domination Magic  2
+  -    Inspiration Magic 11
+
+* Skills:
+
+  -             Power Drain
+  -       Drain Enchantment
+  -                   Tease
+  -      Cry of Frustration
+  -              Clumsiness
+  -               Fragility
+  -         Shrinking Armor
+  -            Phantom Pain
+
+
+## Skills/H-Me-N-Conditions.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -428,7 +428,7 @@
   -              Foul Feast
 
 
-## Skills/0H-Me-Rt.txt:
+## Skills/H-Me-Rt.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -454,7 +454,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-Mo-Me-Heal-Ogden.txt:
+## Skills/H-Mo-Me-Heal.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -479,7 +479,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-Mo-Me-Pro-Dunkoro.txt:
+## Skills/H-Mo-Me-Pro.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -505,7 +505,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-Mo-Me-Smit-Tahlkora.txt:
+## Skills/H-Mo-Me-Smit.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -532,32 +532,7 @@
   -      Resurrection Chant
 
 
-## Skills/0H-N-----Minion-Lingering.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OABDUqp3OVV7gloM4IQDVhjK
-* Profession: Necromancer / None
-
-* Attributes:
-
-  -          Death Magic 10
-  -         Soul Reaping 10
-  -               Curses 11
-
-* Skills:
-
-  -    Signet of Lost Souls
-  -        Enfeebling Blood
-  -            Mark of Pain
-  -                   Barbs
-  -         Lingering Curse
-  -              Death Nova
-  -    Animate Bone Minions
-  - Animate Shambling Horror
-
-
-## Skills/0H-N--Me-Conditions.txt:
+## Skills/H-N-Me-Conditions.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -583,7 +558,7 @@
   -              Foul Feast
 
 
-## Skills/0H-N--Me-Icy.txt:
+## Skills/H-N-Me-Icy.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -608,7 +583,7 @@
   -               Masochism
 
 
-## Skills/0H-N--Me-Minion-Icy.txt:
+## Skills/H-N-Me-Minion-Icy.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -633,7 +608,7 @@
   -               Masochism
 
 
-## Skills/0H-N--Me-Minion-Jagged.txt:
+## Skills/H-N-Me-Minion-Jagged.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -658,7 +633,32 @@
   -               Masochism
 
 
-## Skills/0H-N--Rt-Minion.txt:
+## Skills/H-N-Minion-Lingering.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OABDUqp3OVV7gloM4IQDVhjK
+* Profession: Necromancer / None
+
+* Attributes:
+
+  -          Death Magic 10
+  -         Soul Reaping 10
+  -               Curses 11
+
+* Skills:
+
+  -    Signet of Lost Souls
+  -        Enfeebling Blood
+  -            Mark of Pain
+  -                   Barbs
+  -         Lingering Curse
+  -              Death Nova
+  -    Animate Bone Minions
+  - Animate Shambling Horror
+
+
+## Skills/H-N-Rt-Minion.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -683,7 +683,7 @@
   - Animate Shambling Horror
 
 
-## Skills/0H-P--W--Pro.txt:
+## Skills/H-P-W-Pro.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -708,7 +708,7 @@
   -        Signet of Return
 
 
-## Skills/0H-P--W--Spear.txt:
+## Skills/H-P-W-Spear.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -733,32 +733,7 @@
   -        Signet of Return
 
 
-## Skills/0H-R-----Pet.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgATY5LmVq3IWaWqWC3wLkzYVCA
-* Profession: Ranger / None
-
-* Attributes:
-
-  -        Beast Mastery 12
-  -            Expertise  8
-  -         Marksmanship 10
-
-* Skills:
-
-  -        Disrupting Lunge
-  -           Savage Pounce
-  -         Bestial Mauling
-  -          Poisonous Bite
-  -        Scavenger Strike
-  -        Feral Aggression
-  -      Call of Protection
-  -             Heal as One
-
-
-## Skills/0H-R--Me-Barrage.txt:
+## Skills/H-R-Me-Barrage.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -783,7 +758,7 @@
   -         Favorable Winds
 
 
-## Skills/0H-R--Me-Interrupt.txt:
+## Skills/H-R-Me-Interrupt.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -808,7 +783,7 @@
   -        Distracting Shot
 
 
-## Skills/0H-R--P--Prepared-Shot.txt:
+## Skills/H-R-P-Prepared-Shot.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -832,81 +807,32 @@
   -        Signet of Return
 
 
-## Skills/0H-Rt----Painful-Bond.txt:
+## Skills/H-R-Pet.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACjAuiMpNX7y538aGtzcLzqJA
-* Profession: Ritualist / None
+*       Code: OgATY5LmVq3IWaWqWC3wLkzYVCA
+* Profession: Ranger / None
 
 * Attributes:
 
-  -            Communing 11
-  -     Channeling Magic 12
-  -       Spawning Power  6
+  -        Beast Mastery 12
+  -            Expertise  8
+  -         Marksmanship 10
 
 * Skills:
 
-  -      Warmonger's Weapon
-  -               Bloodsong
-  -                    Pain
-  -       Signet of Spirits
-  -                 Anguish
-  -              Dissonance
-  -          Essence Strike
-  -            Painful Bond
+  -        Disrupting Lunge
+  -           Savage Pounce
+  -         Bestial Mauling
+  -          Poisonous Bite
+  -        Scavenger Strike
+  -        Feral Aggression
+  -      Call of Protection
+  -             Heal as One
 
 
-## Skills/0H-Rt----Restore-Spirit.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OACiEykMNMJN9MNtNOxJW9cxAA
-* Profession: Ritualist / None
-
-* Attributes:
-
-  -    Restoration Magic 12
-  -       Spawning Power 12
-
-* Skills:
-
-  -   Protective Was Kaolai
-  -      Mend Body and Soul
-  -       Spirit Channeling
-  -             Empowerment
-  -                    Life
-  -            Rejuvenation
-  -            Recuperation
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt----Twisting-Shelter.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OACjAyhDJPYTrXm7xFOPbOzLGA
-* Profession: Ritualist / None
-
-* Attributes:
-
-  -            Communing 12
-  -    Restoration Magic  3
-  -       Spawning Power 12
-
-* Skills:
-
-  -           Soul Twisting
-  -                 Shelter
-  -              Dissonance
-  -                   Union
-  -            Displacement
-  -              Shadowsong
-  -        Boon of Creation
-  -       Flesh of My Flesh
-
-
-## Skills/0H-Rt-Me-Restore-Xinrae.txt:
+## Skills/H-Rt-Me-Restore-Xinrae.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -931,7 +857,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-Rt-Me-Spike.txt:
+## Skills/H-Rt-Me-Spike.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -956,7 +882,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-Rt-Me-Union.txt:
+## Skills/H-Rt-Me-Union.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -982,7 +908,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-Rt-N--Amimate-Explode.txt:
+## Skills/H-Rt-N-Amimate-Explode.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1007,7 +933,81 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-W--P--Signet.txt:
+## Skills/H-Rt-Painful-Bond.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACjAuiMpNX7y538aGtzcLzqJA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -            Communing 11
+  -     Channeling Magic 12
+  -       Spawning Power  6
+
+* Skills:
+
+  -      Warmonger's Weapon
+  -               Bloodsong
+  -                    Pain
+  -       Signet of Spirits
+  -                 Anguish
+  -              Dissonance
+  -          Essence Strike
+  -            Painful Bond
+
+
+## Skills/H-Rt-Restore-Spirit.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACiEykMNMJN9MNtNOxJW9cxAA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -    Restoration Magic 12
+  -       Spawning Power 12
+
+* Skills:
+
+  -   Protective Was Kaolai
+  -      Mend Body and Soul
+  -       Spirit Channeling
+  -             Empowerment
+  -                    Life
+  -            Rejuvenation
+  -            Recuperation
+  -       Flesh of My Flesh
+
+
+## Skills/H-Rt-Twisting-Shelter.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACjAyhDJPYTrXm7xFOPbOzLGA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -            Communing 12
+  -    Restoration Magic  3
+  -       Spawning Power 12
+
+* Skills:
+
+  -           Soul Twisting
+  -                 Shelter
+  -              Dissonance
+  -                   Union
+  -            Displacement
+  -              Shadowsong
+  -        Boon of Creation
+  -       Flesh of My Flesh
+
+
+## Skills/H-W-P-Signet.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1032,7 +1032,7 @@
   -           Dolyak Signet
 
 
-## Skills/0H-W--Rt-Axe.txt:
+## Skills/H-W-Rt-Axe.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1057,7 +1057,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-W--Rt-Hammer.txt:
+## Skills/H-W-Rt-Hammer.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1082,7 +1082,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/0H-W--Rt-Sword.txt:
+## Skills/H-W-Rt-Sword.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1107,80 +1107,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/1P-E-----Nuke.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgNCoMzhu61uA2xMGukJ
-* Profession: Elementalist / Monk
-
-* Attributes:
-
-  -           Fire Magic 12
-  -       Energy Storage 12
-
-* Skills:
-
-  -                Fireball
-  -    Rodgort's Invocation
-  -                  Meteor
-  -           Meteor Shower
-  -         Glyph of Energy
-  - Glyph of Elemental Power
-  -         Fire Attunement
-  -                 Rebirth
-
-
-## Skills/1P-E-----Protect.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgNDk7qsGvDWvaboqUGTmA
-* Profession: Elementalist / Monk
-
-* Attributes:
-
-  -          Earth Magic 11
-  -          Water Magic 10
-  -       Energy Storage 10
-
-* Skills:
-
-  -       Ward Against Harm
-  -      Ward Against Melee
-  -   Ward Against Elements
-  -          Obsidian Flame
-  -           Magnetic Aura
-  -          Armor of Earth
-  - Glyph of Elemental Power
-  -                 Rebirth
-
-
-## Skills/1P-E-----Spike.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgBCgMzg5NXO4GTb4DA
-* Profession: Elementalist / None
-
-* Attributes:
-
-  -            Air Magic 12
-  -       Energy Storage 12
-
-* Skills:
-
-  -       Lightning Javelin
-  -         Lightning Surge
-  -           Lightning Orb
-  -       Enervating Charge
-  - Glyph of Elemental Power
-  -     Aura of Restoration
-  -          Air Attunement
-  -       Signet of Capture
-
-
-## Skills/1P-E--Mo-Heal.txt:
+## Skills/P-E-Mo-Heal.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1205,7 +1132,7 @@
   -                 Rebirth
 
 
-## Skills/1P-E--Mo-Solo-Armor.txt:
+## Skills/P-E-Mo-Solo-Armor.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1230,7 +1157,7 @@
   -            Essence Bond
 
 
-## Skills/1P-E--Mo-Solo-Enchant.txt:
+## Skills/P-E-Mo-Solo-Enchant.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1255,7 +1182,105 @@
   -            Essence Bond
 
 
-## Skills/1P-Rt----Restore.txt:
+## Skills/P-E-Nuke.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgNCoMzhu61uA2xMGukJ
+* Profession: Elementalist / Monk
+
+* Attributes:
+
+  -           Fire Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -                Fireball
+  -    Rodgort's Invocation
+  -                  Meteor
+  -           Meteor Shower
+  -         Glyph of Energy
+  - Glyph of Elemental Power
+  -         Fire Attunement
+  -                 Rebirth
+
+
+## Skills/P-E-Protect.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgNDk7qsGvDWvaboqUGTmA
+* Profession: Elementalist / Monk
+
+* Attributes:
+
+  -          Earth Magic 11
+  -          Water Magic 10
+  -       Energy Storage 10
+
+* Skills:
+
+  -       Ward Against Harm
+  -      Ward Against Melee
+  -   Ward Against Elements
+  -          Obsidian Flame
+  -           Magnetic Aura
+  -          Armor of Earth
+  - Glyph of Elemental Power
+  -                 Rebirth
+
+
+## Skills/P-E-Spike.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBCgMzg5NXO4GTb4DA
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -            Air Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -       Lightning Javelin
+  -         Lightning Surge
+  -           Lightning Orb
+  -       Enervating Charge
+  - Glyph of Elemental Power
+  -     Aura of Restoration
+  -          Air Attunement
+  -       Signet of Capture
+
+
+## Skills/P-Rt-N-Animate.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OASjUwhDJTDAVBLVjTVPciNTOTA
+* Profession: Ritualist / Necromancer
+
+* Attributes:
+
+  -          Death Magic 12
+  -    Restoration Magic  3
+  -       Spawning Power 12
+
+* Skills:
+
+  -       Signet of Capture
+  -    Animate Bone Minions
+  -            Jagged Bones
+  -                    Life
+  -            Recuperation
+  -            Rejuvenation
+  -        Explosive Growth
+  -        Boon of Creation
+
+
+## Skills/P-Rt-Restore.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1279,7 +1304,7 @@
   -            Recuperation
 
 
-## Skills/1P-Rt----Ritual-Lord.txt:
+## Skills/P-Rt-Ritual-Lord.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1303,7 +1328,7 @@
   -          Disenchantment
 
 
-## Skills/1P-Rt----Solo.txt:
+## Skills/P-Rt-Solo.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1328,7 +1353,7 @@
   -              Dissonance
 
 
-## Skills/1P-Rt----Spike.txt:
+## Skills/P-Rt-Spike.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1352,7 +1377,7 @@
   -      Warmonger's Weapon
 
 
-## Skills/1P-Rt----Twisting-Shelter.txt:
+## Skills/P-Rt-Twisting-Shelter.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1373,31 +1398,6 @@
   -                   Union
   -            Displacement
   -              Shadowsong
-  -        Boon of Creation
-
-
-## Skills/1P-Rt-N--Animate.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OASjUwhDJTDAVBLVjTVPciNTOTA
-* Profession: Ritualist / Necromancer
-
-* Attributes:
-
-  -          Death Magic 12
-  -    Restoration Magic  3
-  -       Spawning Power 12
-
-* Skills:
-
-  -       Signet of Capture
-  -    Animate Bone Minions
-  -            Jagged Bones
-  -                    Life
-  -            Recuperation
-  -            Rejuvenation
-  -        Explosive Growth
   -        Boon of Creation
 
 
