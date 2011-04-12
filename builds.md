@@ -1061,7 +1061,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQgTE15WVaCsNipIU7rosgr4iBA
+*       Code: OQgTE15WVaCsNipQs4rosgr4iBA
 * Profession: Warrior / Ritualist
 
 * Attributes:
@@ -1075,7 +1075,7 @@
   -   "I Meant to Do That!"
   -            Drunken Blow
   -           Bull's Strike
-  -      Magehunter's Smash
+  -            Earth Shaker
   -             Mighty Blow
   -            Counter Blow
   -       "Watch Yourself!"
