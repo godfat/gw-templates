@@ -27,13 +27,13 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OwFi0xjLVBdFqwkwY8dwEUo/AA
+*       Code: OwFi0xjMVBdFqwkwY8dwEUo/AA
 * Profession: Assassin / Warrior
 
 * Attributes:
 
   -       Dagger Mastery 12
-  -     Critical Strikes 11
+  -     Critical Strikes 12
 
 * Skills:
 
