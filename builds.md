@@ -178,7 +178,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMmy8KZQPAM9CdjM4CtA
+*       Code: OgVDMmy8KZQPAM0NyYM4CtA
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -192,9 +192,9 @@
   -             Power Drain
   -            Leech Signet
   -           Meteor Shower
-  -    Rodgort's Invocation
   -          Searing Flames
   -  Glyph of Lesser Energy
+  - Glyph of Elemental Power
   -         Fire Attunement
   -     Aura of Restoration
 
@@ -203,7 +203,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMmy8OZAgRvQX00Cr4CaB
+*       Code: OgVDMmy8OZAgRvQXEWNG4CaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -218,8 +218,8 @@
   -           Meteor Shower
   -    Rodgort's Invocation
   -                Fireball
-  -            Liquid Flame
   -             Ether Prism
+  - Glyph of Elemental Power
   -         Fire Attunement
   -     Aura of Restoration
 
@@ -228,7 +228,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMmy8OZAgRTrYQWJG4CaB
+*       Code: OgVDMmy8OZAgRTjYQWNG4CaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -242,9 +242,9 @@
   -             Power Drain
   -           Meteor Shower
   -            Liquid Flame
-  -              Fire Storm
-  -           Savannah Heat
   -            Searing Heat
+  -           Savannah Heat
+  - Glyph of Elemental Power
   -         Fire Attunement
   -     Aura of Restoration
 
