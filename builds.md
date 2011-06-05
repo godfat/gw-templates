@@ -249,6 +249,31 @@
   -     Aura of Restoration
 
 
+## Skills/H-E-Me-Ice.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgVDMzyMTZApMTDQiIDGDQD0CA
+* Profession: Elementalist / Mesmer
+
+* Attributes:
+
+  -    Inspiration Magic  3
+  -          Water Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -             Power Drain
+  -            Shatterstone
+  -              Ice Spikes
+  -             Glowing Ice
+  -  Glyph of Lesser Energy
+  - Glyph of Elemental Power
+  -        Water Attunement
+  -     Aura of Restoration
+
+
 ## Skills/H-E-Me-Spike.txt:
 
 *   Template: Skills
