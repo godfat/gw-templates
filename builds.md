@@ -278,7 +278,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMGy8OZgew3ocAOA0hDaB
+*       Code: OgVDMGy8OZgeAR4bAoNGhDaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -291,10 +291,10 @@
 
   -             Power Drain
   -            Leech Signet
+  -       Drain Enchantment
   -         Chain Lightning
-  -           Lightning Orb
-  -       Enervating Charge
   -        Invoke Lightning
+  - Glyph of Elemental Power
   -          Air Attunement
   -     Aura of Restoration
 
