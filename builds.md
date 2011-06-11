@@ -758,6 +758,31 @@
   - Animate Shambling Horror
 
 
+## Skills/H-P-W-Con.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQGjUhlKKTAZiicF/YnYVY9YybA
+* Profession: Paragon / Warrior
+
+* Attributes:
+
+  -              Tactics  8
+  -        Spear Mastery 10
+  -           Leadership 12
+
+* Skills:
+
+  -            Barbed Spear
+  -             Spear Swipe
+  -       "Watch Yourself!"
+  - "It's just a flesh wound."
+  -          Blazing Finale
+  -         Anthem of Flame
+  -      "They're on Fire!"
+  -        Signet of Return
+
+
 ## Skills/H-P-W-Daze.txt:
 
 *   Template: Skills
