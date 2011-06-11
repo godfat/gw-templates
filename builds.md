@@ -228,7 +228,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMmy8OZAgRvQXEWNG4CaB
+*       Code: OgVDMmy8OZAghuoXEWNG4CaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -241,8 +241,8 @@
 
   -             Power Drain
   -           Meteor Shower
-  -    Rodgort's Invocation
   -                Fireball
+  -    Rodgort's Invocation
   -             Ether Prism
   - Glyph of Elemental Power
   -         Fire Attunement
@@ -1456,7 +1456,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OACiAyk8MAwmWvM3jLce2cmA
+*       Code: OACiAyk8MAwmWvHX48sl5cmA
 * Profession: Ritualist / None
 
 * Attributes:
@@ -1469,10 +1469,10 @@
   -       Signet of Capture
   -           Soul Twisting
   -                 Shelter
-  -              Dissonance
   -                   Union
   -            Displacement
   -              Shadowsong
+  -              Dissonance
   -        Boon of Creation
 
 
