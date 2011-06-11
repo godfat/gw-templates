@@ -174,6 +174,31 @@
   -      Resurrection Chant
 
 
+## Skills/H-E-MasterOfMagic-Earth.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBDksOMPvCYR0fVAMErpCaB
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -          Earth Magic 12
+  -           Fire Magic  3
+  -       Energy Storage 12
+
+* Skills:
+
+  -   Ward Against Elements
+  -      Ward Against Melee
+  -        Ward of Weakness
+  -                 Stoning
+  -           Meteor Shower
+  -         Master of Magic
+  -        Earth Attunement
+  -     Aura of Restoration
+
+
 ## Skills/H-E-Me-Burn.txt:
 
 *   Template: Skills
