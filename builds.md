@@ -504,6 +504,31 @@
   -       Flesh of My Flesh
 
 
+## Skills/H-Me-Slow.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQBDAcwzQZAMBtAwN5ZTAsAGgA
+* Profession: Mesmer / None
+
+* Attributes:
+
+  -         Fast Casting 12
+  -       Illusion Magic 12
+  -    Inspiration Magic  3
+
+* Skills:
+
+  -             Power Drain
+  -         Imagined Burden
+  -         Ethereal Burden
+  -            Stolen Speed
+  -    Signet of Clumsiness
+  -               Fragility
+  -            Phantom Pain
+  -         Shrinking Armor
+
+
 ## Skills/H-Mo-Me-Heal.txt:
 
 *   Template: Skills
