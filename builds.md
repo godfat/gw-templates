@@ -733,6 +733,31 @@
   - Animate Shambling Horror
 
 
+## Skills/H-P-W-Daze.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQGjUhlKKTAZCZiilYbfcFwbybA
+* Profession: Paragon / Warrior
+
+* Attributes:
+
+  -              Tactics  8
+  -        Spear Mastery 10
+  -           Leadership 12
+
+* Skills:
+
+  -            Barbed Spear
+  -         Stunning Strike
+  -             Spear Swipe
+  -                     Awe
+  -                 Grapple
+  -       "Watch Yourself!"
+  -    Signet of Aggression
+  -        Signet of Return
+
+
 ## Skills/H-P-W-Pro.txt:
 
 *   Template: Skills
