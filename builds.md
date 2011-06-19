@@ -1430,6 +1430,31 @@
   -        Boon of Creation
 
 
+## Skills/P-Rt-N-Urgoz.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OASjAyhDJPYTrX40aWwcmhhLGA
+* Profession: Ritualist / Necromancer
+
+* Attributes:
+
+  -            Communing 12
+  -    Restoration Magic  3
+  -       Spawning Power 12
+
+* Skills:
+
+  -           Soul Twisting
+  -                 Shelter
+  -            Displacement
+  -      Signet of Creation
+  -      Mighty Was Vorizun
+  -        Boon of Creation
+  -      Necrotic Traversal
+  -       Flesh of My Flesh
+
+
 ## Skills/P-Rt-Restore.txt:
 
 *   Template: Skills
