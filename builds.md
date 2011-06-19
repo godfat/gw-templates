@@ -324,6 +324,31 @@
   -     Aura of Restoration
 
 
+## Skills/H-E-Me-Thunderclap.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgVDMGy8CZ0DRlTuxhTL
+* Profession: Elementalist / Mesmer
+
+* Attributes:
+
+  -    Inspiration Magic  6
+  -            Air Magic 12
+  -       Energy Storage 11
+
+* Skills:
+
+  -             Power Drain
+  -            Leech Signet
+  -       Drain Enchantment
+  -           Lightning Orb
+  -             Thunderclap
+  - Glyph of Elemental Power
+  -          Air Attunement
+  -     Aura of Restoration
+
+
 ## Skills/H-E-Me-Ward.txt:
 
 *   Template: Skills
