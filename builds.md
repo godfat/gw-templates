@@ -1161,7 +1161,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQgTEZJXnRpQViK7VmyWhrcxAA
+*       Code: OQgTEZJXnhpQViK7VoSPhrcxAA
 * Profession: Warrior / Ritualist
 
 * Attributes:
@@ -1172,12 +1172,12 @@
 
 * Skills:
 
-  -             Cyclone Axe
+  -           Bull's Strike
   -         Disrupting Chop
   -               Dismember
   -          Agonizing Chop
-  -           Bull's Strike
-  -             Endure Pain
+  -    Executioner's Strike
+  -             Battle Rage
   -       "Watch Yourself!"
   -       Flesh of My Flesh
 
