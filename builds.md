@@ -278,7 +278,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMzyMTZApMTDQiIDGDQD0CA
+*       Code: OgVDMzyMT9ApMTDQiIDGDQD0CA
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -289,7 +289,7 @@
 
 * Skills:
 
-  -             Power Drain
+  -            Leech Signet
   -            Shatterstone
   -              Ice Spikes
   -             Glowing Ice
@@ -475,6 +475,58 @@
   -               Fragility
   -         Shrinking Armor
   -            Phantom Pain
+
+
+## Skills/H-Me-Mo-Lyssa.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQNDAqwDOZgLQLTGcT1A5A0I
+* Profession: Mesmer / Monk
+
+* Attributes:
+
+  -         Fast Casting 10
+  -     Domination Magic 12
+  -    Inspiration Magic  8
+
+* Skills:
+
+  -             Power Drain
+  -             Power Spike
+  -            Lyssa's Aura
+  -         Wastrel's Worry
+  -        Wastrel's Demise
+  -                 Empathy
+  -      Cry of Frustration
+  -      Resurrection Chant
+
+
+## Skills/H-Me-Mo-SigentOfIllusions.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQNFAZwSMZPTOwCkBxgVAh6KANC
+* Profession: Mesmer / Monk
+
+* Attributes:
+
+  -         Fast Casting  9
+  -       Illusion Magic 12
+  -     Domination Magic  1
+  -    Inspiration Magic  9
+  -      Healing Prayers  3
+
+* Skills:
+
+  -      Cry of Frustration
+  -            Inspired Hex
+  -            Revealed Hex
+  -    Revealed Enchantment
+  -    Inspired Enchantment
+  -     Signet of Illusions
+  -              Clumsiness
+  -      Resurrection Chant
 
 
 ## Skills/H-Me-N-Conditions.txt:
@@ -733,6 +785,31 @@
   -               Masochism
 
 
+## Skills/H-N-Me-Spiteful.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OAVDMjxHT9AVVnBCN5BNiJgbhA
+* Profession: Necromancer / Mesmer
+
+* Attributes:
+
+  -    Inspiration Magic  3
+  -         Soul Reaping 12
+  -               Curses 12
+
+* Skills:
+
+  -            Leech Signet
+  -    Signet of Lost Souls
+  -        Price of Failure
+  -          Reckless Haste
+  -         Spiteful Spirit
+  -        Angorodon's Gaze
+  -              Foul Feast
+  -               Masochism
+
+
 ## Skills/H-N-Minion-Lingering.txt:
 
 *   Template: Skills
@@ -756,6 +833,31 @@
   -              Death Nova
   -    Animate Bone Minions
   - Animate Shambling Horror
+
+
+## Skills/H-N-Mo-Heal.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OANDQqttS+B/BcBdCYENiJgoRA
+* Profession: Necromancer / Monk
+
+* Attributes:
+
+  -          Blood Magic 10
+  -         Soul Reaping 11
+  -      Healing Prayers 10
+
+* Skills:
+
+  -           Life Transfer
+  -      Mark of Subversion
+  -           Well of Blood
+  -            Blood Ritual
+  -               Heal Area
+  -        Angorodon's Gaze
+  -              Foul Feast
+  -      Resurrection Chant
 
 
 ## Skills/H-N-Rt-Minion.txt:
