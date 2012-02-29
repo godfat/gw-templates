@@ -72,6 +72,31 @@
   -         Avatar of Lyssa
 
 
+## Skills/H-D-Mo-Balthazar.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgOj0MpMLPO3nr4ecPe3vuX0IA
+* Profession: Dervish / Monk
+
+* Attributes:
+
+  -      Healing Prayers  3
+  -       Scythe Mastery 12
+  -            Mysticism 12
+
+* Skills:
+
+  -         Reap Impurities
+  -         Twin Moon Sweep
+  -           Heart of Fury
+  -         Zealous Renewal
+  -     Heart of Holy Flame
+  -       Intimidating Aura
+  -     Avatar of Balthazar
+  -      Resurrection Chant
+
+
 ## Skills/H-D-Mo-Ebon.txt:
 
 *   Template: Skills
@@ -224,6 +249,78 @@
   -     Aura of Restoration
 
 
+## Skills/H-E-Me-Elemental-Air.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBCgMzjOMsVOk+hDjBpgWA
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -            Air Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -             Shock Arrow
+  -        Lightning Hammer
+  -           Lightning Orb
+  -      Glyph of Swiftness
+  -          Air Attunement
+  - Glyph of Elemental Power
+  -    Elemental Attunement
+  -     Aura of Restoration
+
+
+## Skills/H-E-Me-Elemental-Fire.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBCoMziu0LNNwgLGDpQLA
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -           Fire Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -                Fireball
+  -    Rodgort's Invocation
+  -            Liquid Flame
+  -           Meteor Shower
+  -         Fire Attunement
+  - Glyph of Elemental Power
+  -    Elemental Attunement
+  -     Aura of Restoration
+
+
+## Skills/H-E-Me-Elemental-Water.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBCsMzEkoYz0g6A0gxApAtA
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -          Water Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -             Glowing Ice
+  -             Vapor Blade
+  -              Ice Spikes
+  -             Deep Freeze
+  -        Water Attunement
+  - Glyph of Elemental Power
+  -    Elemental Attunement
+  -     Aura of Restoration
+
+
 ## Skills/H-E-Me-Explode.txt:
 
 *   Template: Skills
@@ -303,7 +400,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMGy8OZgeAR4bAoNGhDaB
+*       Code: OgVDMGy8OZgegOEcAoNGhDaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -316,8 +413,8 @@
 
   -             Power Drain
   -            Leech Signet
-  -       Drain Enchantment
-  -         Chain Lightning
+  -             Shock Arrow
+  -       Enervating Charge
   -        Invoke Lightning
   - Glyph of Elemental Power
   -          Air Attunement
@@ -328,7 +425,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgVDMGy8CZ0DRlTuxhTL
+*       Code: OgVDMGy8OZgegOscQOMGhDaB
 * Profession: Elementalist / Mesmer
 
 * Attributes:
@@ -341,7 +438,7 @@
 
   -             Power Drain
   -            Leech Signet
-  -       Drain Enchantment
+  -             Shock Arrow
   -           Lightning Orb
   -             Thunderclap
   - Glyph of Elemental Power
@@ -398,31 +495,6 @@
   -        Channeled Strike
   -             Spirit Rift
   -       Flesh of My Flesh
-
-
-## Skills/H-Me-Domain.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQBDAqwDOZgegPNHcB4AaAPA
-* Profession: Mesmer / None
-
-* Attributes:
-
-  -         Fast Casting 10
-  -     Domination Magic 12
-  -    Inspiration Magic  8
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
-  -                   Tease
-  -      Cry of Frustration
-  -             Power Spike
-  -                Backfire
-  -                 Empathy
-  -               Diversion
 
 
 ## Skills/H-Me-E.txt:
@@ -579,6 +651,31 @@
   -         Vengeful Weapon
   -      Mend Body and Soul
   -       Flesh of My Flesh
+
+
+## Skills/H-Me-Shutdown.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OQBDAqwDOZAiQPwnmDuAKfPA
+* Profession: Mesmer / None
+
+* Attributes:
+
+  -         Fast Casting 10
+  -     Domination Magic 12
+  -    Inspiration Magic  8
+
+* Skills:
+
+  -             Power Drain
+  -       Drain Enchantment
+  -            Leech Signet
+  -                   Tease
+  -      Cry of Frustration
+  -             Power Spike
+  -              Power Lock
+  -               Diversion
 
 
 ## Skills/H-Me-Slow.txt:
@@ -1357,6 +1454,56 @@
   -             Endure Pain
   -       "Watch Yourself!"
   -       Flesh of My Flesh
+
+
+## Skills/P-A-R-Bow.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OwJjgZZ5ISTQHGzG6PLiYHrGCAA
+* Profession: Assassin / Ranger
+
+* Attributes:
+
+  -  Wilderness Survival  6
+  -         Marksmanship  9
+  -     Critical Strikes  8
+
+* Skills:
+
+  -                    Dash
+  -           Hunter's Shot
+  -            Apply Poison
+  -            Critical Eye
+  -       Way of the Master
+  -         Favorable Winds
+  -         Antidote Signet
+  -     Resurrection Signet
+
+
+## Skills/P-A-R.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OwJjgFd6YOTQHmAkhdwmN6PCIA
+* Profession: Assassin / Ranger
+
+* Attributes:
+
+  -  Wilderness Survival  1
+  -       Dagger Mastery 10
+  -     Critical Strikes  9
+
+* Skills:
+
+  -                    Dash
+  -           Jagged Strike
+  -     Golden Lotus Strike
+  -               Fox Fangs
+  -           Death Blossom
+  -            Apply Poison
+  -            Critical Eye
+  -       Way of Perfection
 
 
 ## Skills/P-E-Mo-Heal.txt:
