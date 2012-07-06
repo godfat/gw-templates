@@ -273,6 +273,30 @@
   -     Aura of Restoration
 
 
+## Skills/H-E-Me-Elemental-Earth.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OgBCkMzjXdV0nVFpCjBpgWA
+* Profession: Elementalist / None
+
+* Attributes:
+
+  -          Earth Magic 12
+  -       Energy Storage 12
+
+* Skills:
+
+  -               Ebon Hawk
+  -                 Stoning
+  -               Glowstone
+  -              Earthquake
+  -        Earth Attunement
+  - Glyph of Elemental Power
+  -    Elemental Attunement
+  -     Aura of Restoration
+
+
 ## Skills/H-E-Me-Elemental-Fire.txt:
 
 *   Template: Skills
@@ -553,7 +577,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQNDAqwDOZgLQLTGcT1A5A0I
+*       Code: OQNDAqwDOZgLQLTGI40A5A0I
 * Profession: Mesmer / Monk
 
 * Attributes:
@@ -568,7 +592,7 @@
   -             Power Spike
   -            Lyssa's Aura
   -         Wastrel's Worry
-  -        Wastrel's Demise
+  -                Overload
   -                 Empathy
   -      Cry of Frustration
   -      Resurrection Chant
