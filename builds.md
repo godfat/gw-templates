@@ -1110,7 +1110,7 @@
 
 *   Template: Skills
 *    Version: 0
-*       Code: OgUTMs7mZKDoHYxAzQ14Ls4A7AA
+*       Code: OgUTMs7mZKDoHYxoCU14Ls4A7AA
 * Profession: Ranger / Mesmer
 
 * Attributes:
@@ -1124,7 +1124,7 @@
   -             Power Drain
   -            Leech Signet
   -                 Barrage
-  -         Concussion Shot
+  -     Sloth Hunter's Shot
   -             Savage Shot
   -         Disrupting Shot
   -      Lightning Reflexes
@@ -1230,32 +1230,7 @@
   -       Flesh of My Flesh
 
 
-## Skills/H-Rt-Me-Spike.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAWjMwhjIPZgeQ3cZSsTmOuLGA
-* Profession: Ritualist / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic 12
-  -    Restoration Magic  3
-  -     Channeling Magic 12
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
-  -        Gaze from Beyond
-  -          Essence Strike
-  -  Destructive Was Glaive
-  -        Channeled Strike
-  -             Spirit Rift
-  -       Flesh of My Flesh
-
-
-## Skills/H-Rt-Me-Union.txt:
+## Skills/H-Rt-Me-Ritual-Lord.txt:
 
 *   Template: Skills
 *    Version: 0
@@ -1278,6 +1253,31 @@
   -            Displacement
   -                 Shelter
   -              Shadowsong
+  -       Flesh of My Flesh
+
+
+## Skills/H-Rt-Me-Spike.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OAWjMwhjIPZgeQ3cZSsTmOuLGA
+* Profession: Ritualist / Mesmer
+
+* Attributes:
+
+  -    Inspiration Magic 12
+  -    Restoration Magic  3
+  -     Channeling Magic 12
+
+* Skills:
+
+  -             Power Drain
+  -            Leech Signet
+  -        Gaze from Beyond
+  -          Essence Strike
+  -  Destructive Was Glaive
+  -        Channeled Strike
+  -             Spirit Rift
   -       Flesh of My Flesh
 
 
@@ -1352,6 +1352,31 @@
   -                    Life
   -            Rejuvenation
   -            Recuperation
+  -       Flesh of My Flesh
+
+
+## Skills/H-Rt-Splinter.txt:
+
+*   Template: Skills
+*    Version: 0
+*       Code: OACjEOiMJTXbYMPTOOdidTXOXMA
+* Profession: Ritualist / None
+
+* Attributes:
+
+  -    Restoration Magic  3
+  -     Channeling Magic 12
+  -       Spawning Power 12
+
+* Skills:
+
+  -      Warmonger's Weapon
+  -         Splinter Weapon
+  -       Spirit Channeling
+  -             Spirit Rift
+  -                   Agony
+  -        Gaze from Beyond
+  -             Spirit Burn
   -       Flesh of My Flesh
 
 
