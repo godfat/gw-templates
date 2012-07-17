@@ -521,58 +521,6 @@
   -       Flesh of My Flesh
 
 
-## Skills/H-Me-E.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQZEAmYzu7kBIC+0cwFoHMNUHA
-* Profession: Mesmer / Elementalist
-
-* Attributes:
-
-  -         Fast Casting  6
-  -     Domination Magic  6
-  -    Inspiration Magic 11
-  -          Water Magic 11
-
-* Skills:
-
-  -             Power Drain
-  -       Drain Enchantment
-  -                   Tease
-  -      Cry of Frustration
-  -             Power Spike
-  -            Leech Signet
-  -              Ice Spikes
-  -             Deep Freeze
-
-
-## Skills/H-Me-Illusion.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQBEAWwiMLlBQE4TlDsCMBYAyCA
-* Profession: Mesmer / None
-
-* Attributes:
-
-  -         Fast Casting  6
-  -       Illusion Magic 12
-  -     Domination Magic  2
-  -    Inspiration Magic 11
-
-* Skills:
-
-  -             Power Drain
-  -       Drain Enchantment
-  -                   Tease
-  -      Cry of Frustration
-  -              Clumsiness
-  -               Fragility
-  -         Shrinking Armor
-  -            Phantom Pain
-
-
 ## Skills/H-Me-Mo-Lyssa.txt:
 
 *   Template: Skills
@@ -625,63 +573,11 @@
   -      Resurrection Chant
 
 
-## Skills/H-Me-N-Conditions.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQREAXwEeIxCMBQDBJQI4EYTlAC
-* Profession: Mesmer / Necromancer
-
-* Attributes:
-
-  -         Fast Casting  7
-  -       Illusion Magic 12
-  -          Blood Magic  8
-  -               Curses  8
-
-* Skills:
-
-  -            Phantom Pain
-  -               Fragility
-  -           Blood Drinker
-  -              Chilblains
-  -           Plague Signet
-  -                Epidemic
-  -            Hypochondria
-  -              Foul Feast
-
-
-## Skills/H-Me-Rt.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQhkAYCywGyTGoHYB8p5Ain08iB
-* Profession: Mesmer / Ritualist
-
-* Attributes:
-
-  -         Fast Casting  6
-  -     Domination Magic  2
-  -    Inspiration Magic 11
-  -    Restoration Magic 12
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
-  -            Inspired Hex
-  -                   Tease
-  -      Cry of Frustration
-  -         Vengeful Weapon
-  -      Mend Body and Soul
-  -       Flesh of My Flesh
-
-
 ## Skills/H-Me-Shutdown.txt:
 
 *   Template: Skills
 *    Version: 0
-*       Code: OQBDAqwDOZAiQPwnmDuAKfPA
+*       Code: OQBDAqwDOZgegPNHcBU+kOPA
 * Profession: Mesmer / None
 
 * Attributes:
@@ -693,38 +589,13 @@
 * Skills:
 
   -             Power Drain
-  -       Drain Enchantment
   -            Leech Signet
   -                   Tease
   -      Cry of Frustration
   -             Power Spike
   -              Power Lock
+  -              Complicate
   -               Diversion
-
-
-## Skills/H-Me-Slow.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OQBDAcwzQZAMBtAwN5ZTAsAGgA
-* Profession: Mesmer / None
-
-* Attributes:
-
-  -         Fast Casting 12
-  -       Illusion Magic 12
-  -    Inspiration Magic  3
-
-* Skills:
-
-  -             Power Drain
-  -         Imagined Burden
-  -         Ethereal Burden
-  -            Stolen Speed
-  -    Signet of Clumsiness
-  -               Fragility
-  -            Phantom Pain
-  -         Shrinking Armor
 
 
 ## Skills/H-Mo-Me-Heal.txt:
@@ -803,32 +674,6 @@
   -      Shield of Judgment
   -           Smiter's Boon
   -      Resurrection Chant
-
-
-## Skills/H-N-Me-Conditions.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAVEEMdGeIxCMBQDBJQI4EYTlAC
-* Profession: Necromancer / Mesmer
-
-* Attributes:
-
-  -       Illusion Magic 12
-  -          Blood Magic  7
-  -         Soul Reaping  8
-  -               Curses  8
-
-* Skills:
-
-  -            Phantom Pain
-  -               Fragility
-  -           Blood Drinker
-  -              Chilblains
-  -           Plague Signet
-  -                Epidemic
-  -            Hypochondria
-  -              Foul Feast
 
 
 ## Skills/H-N-Me-Icy.txt:
@@ -981,31 +826,6 @@
   -      Resurrection Chant
 
 
-## Skills/H-N-Rt-Minion.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OAhjUwGaISSTVVKgjToBLVVBHVA
-* Profession: Necromancer / Ritualist
-
-* Attributes:
-
-  -          Death Magic 12
-  -         Soul Reaping 10
-  -    Restoration Magic  8
-
-* Skills:
-
-  -      Mend Body and Soul
-  -    Signet of Lost Souls
-  -             Putrid Bile
-  -                    Life
-  -              Death Nova
-  -            Jagged Bones
-  -    Animate Bone Minions
-  - Animate Shambling Horror
-
-
 ## Skills/H-P-W-Con.txt:
 
 *   Template: Skills
@@ -1129,31 +949,6 @@
   -         Disrupting Shot
   -      Lightning Reflexes
   -         Favorable Winds
-
-
-## Skills/H-R-Me-Interrupt.txt:
-
-*   Template: Skills
-*    Version: 0
-*       Code: OgUTMs7mZKDoHYEynCzQ14L8xAA
-* Profession: Ranger / Mesmer
-
-* Attributes:
-
-  -    Inspiration Magic  6
-  -            Expertise 11
-  -         Marksmanship 12
-
-* Skills:
-
-  -             Power Drain
-  -            Leech Signet
-  -        Hex Eater Signet
-  -                   Tease
-  -         Concussion Shot
-  -             Savage Shot
-  -         Disrupting Shot
-  -        Distracting Shot
 
 
 ## Skills/H-R-P-Prepared-Shot.txt:
